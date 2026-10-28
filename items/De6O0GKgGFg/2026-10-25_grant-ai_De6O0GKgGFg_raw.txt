@@ -1,7 +1,7 @@
 # 미국에서 난리 난 AI팀 판매 사업
 출처: https://www.instagram.com/reel/De6O0GKgGFg/
 날짜: 2026-10-25 (업로드) · 수집 2026-10-28
-채널: grant._.ai · Instagram 릴스 35.6 · 자막 트랙 없음
+채널: grant._.ai · Instagram 릴스 0:36 · 자막 트랙 없음
 
 ## 출처 정보
 
