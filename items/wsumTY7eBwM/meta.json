@@ -1,0 +1,48 @@
+{
+  "id": "wsumTY7eBwM",
+  "url": "https://www.youtube.com/watch?v=wsumTY7eBwM",
+  "title": "[주식] 261028 700pt대 코스닥은 역대급 기회가 될 겁니다",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-28",
+  "duration": "38:40",
+  "fetched_at": "2026-10-28T19:13:39+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "wsumTY7eBwM.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "에이전트·자동화"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "XSEzXwCi9K4",
+      "title": "[주식] 261026 로봇, 이제 시작일까?",
+      "via": "mentioned in this item"
+    }
+  ],
+  "visibility": "public"
+}
