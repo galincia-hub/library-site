@@ -16,7 +16,14 @@
     "국내증시",
     "에이전트·자동화"
   ],
-  "routing": "pending",
+  "routing": {
+    "primary": 1,
+    "owner": "투자연구원",
+    "status": "전달",
+    "date": "2026-10-28",
+    "note": "1 (투자연구원) — 이사님 승인 후 상세 분석과 예측 기록 장부 메모를 함께 전달",
+    "source": "summary.md"
+  },
   "raw_files": [
     {
       "file": "meta.json",
