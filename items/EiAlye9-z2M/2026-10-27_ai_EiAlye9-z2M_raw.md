@@ -16,7 +16,64 @@
   "fetch_path": "captions",
   "caption_track": "auto",
   "caption_lang": "ko-orig",
-  "caption_file": "EiAlye9-z2M.ko-orig.vtt"
+  "caption_file": "EiAlye9-z2M.ko-orig.vtt",
+  "topic": "ai-tools",
+  "tags": [
+    "ChatGPT·Codex",
+    "쇼츠·릴스",
+    "추가 산출물"
+  ],
+  "routing": {
+    "primary": 2,
+    "owner": "AI연구원",
+    "status": "추천",
+    "date": "2026-10-28",
+    "note": "2 (AI연구원) — 바로 쓸 수 있는 설정 팁. 이사님 요청으로 가이드북(guidebook.md + Google Doc) 별도 작성",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "arXiv 2502.08177",
+      "url": "https://arxiv.org/abs/2502.08177",
+      "from": "guidebook.md"
+    },
+    {
+      "title": "arXiv 2310.13548",
+      "url": "https://arxiv.org/abs/2310.13548",
+      "from": "guidebook.md"
+    },
+    {
+      "title": "OpenAI 도움말 8096356",
+      "url": "https://help.openai.com/en/articles/8096356",
+      "from": "summary.md"
+    }
+  ],
+  "related": [
+    {
+      "type": "google-doc",
+      "title": "Google Doc (guidebook.md)",
+      "url": "https://docs.google.com/document/d/18jx2WB-4fJP7PBQNHTVUj9iHclGiMX1AvAIsSNeR3ZA/edit"
+    }
+  ],
+  "visibility": "public"
 }
 
 ## 자막 교정본

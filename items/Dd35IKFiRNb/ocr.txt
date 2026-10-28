@@ -1,0 +1,304 @@
+# tesseract 5 (kor+eng) raw OCR — 차트·표 영역은 오인식 많음. 정제본은 transcript_clean.txt
+
+=== slide 1/6 (img/01.jpg) ===
+| CONNECTED
+CLAUDE TO
+HYPERLIQUID.
+
+Now it can read the market, size trades, and manage positions.
+
+Claude
+
+Al REASONING
+& DECISIONS
+
+SCAN
+
+NR
+
+HYPE/USDC ~ 15m) th 새
+
+1
+
+May al’ ‘t 07
+
++
+
+== &)
+
+> alg ear
+1D                        0
+Entry
+i         [ant
+tt agit  타
+
+Support
+
+Hyperliquid
+ON-CHAIN TRADING
+& EXECUTION
+
+EXECUTE
+067
+80 L    2   0.41 (+1.69%
+과
+Breakout   i
+S
+1 비아
+bid,       it
+st
+
+=== slide 2/6 (img/02.jpg) ===
+IT MANAGES
+THE RISK.
+
+Position size, leverage, margin, stop loss, and liquidation buffer.
+
+Claude
+
+ANALYZES SIGNAL             all
+
+BUILDS
+
+-ㅡ>
+
+MARKET CONTEX
+
+HYPE / USDC ~      50     th     4h
+
+Claude sizes the trade before execution.
+
+It calculates position size, leverage, stops, and
+liquidation buffer based on current market conditions
+and your risk rules — not just a signal.
+
+RISK PARAMETERS
+
+> 0
+
+PLACES ORDER
+EXECUTES ON
+
+i)   RISK MANAGEMENT
+
+Asset
+
+Direction
+
+Entry Price
+
+Stop Loss
+
+Take Profit
+
+Position Size
+
+Leverage
+
+Margin Used
+
+Max Risk
+
+Liquidation Price
+
+Risk / Reward
+
+HYPERLIQUID
+
+@@ HYPE/ 10600            v
+Long                          ~
+24.80                     40600
+23.10                     40600
+28.40                     USDC
+10,000            0600 ~
+5x                             ~
+2,000                     40600
+340            4600
+
+18.60                     40506
+3.6:1
+
+=== slide 3/6 (img/03.jpg) ===
+IT BUILDS
+THE TRADE PLAN.
+
+Entry, stop loss, target, and the reason behind the trade.
+
+Claude                                            Hyperliquid
+
+1 - @ —4I
+
+Al REASONING                                 REAL-TIME MARKET
+& ANALYSIS                                    DATA & EXECUTION
+HYPE/USDC ~ 150 해 0 새 0 10                                     *  Claude Analysis
+32.00
+Target                          Market Bias          Bullish
+—65 | 30,00
+|                             Setup           Breakout + Pullback
+|                                                        1 br          Fn
+07 |    i    Pullback      28.00
+‘i     |                        Entry            26.10 - 26.40
+4, 내 sais    Stop Loss      23.00
+Take Profit        30.00
+Confidence         High      eeee
+
+Risk / Reward       3.231
+
+Why this trade      HYPE broke a multi-day
+range with strong volume,
+retested support, and shows
+continued bullish structure
+
+20.00
+
+Apr 6           Apr 7           Apr 8         Apr 9         Apr 10                                  on higher timeframes.
+
+=== slide 4/6 (img/04.jpg) ===
+IT WATCHES
+THE MARKET.
+
+Across majors, alts, funding, and order flow.
+
+Claude
+
+Al REASONING
+& ANALYSIS
+
+CLAUDE IS SCANNING
+Multiple markets on
+Hyperliquid in real time.
+
+© Perpetuals @ ‘Funding Rates.
+
+BTC                     ETH
+ta?               '
+$66,842.3      Ay       $2,487.6      i
+;                      ㆍ”
++2.14% 2an fF           41.32% 24h
+FUNDING (8       0.0102%                0.0081%
+$2.41B                   $1.28B
+$8.56B      H VOLUN         $4.21B
+BTC-PERP ORDER BOOK (DEPTH)
+86,842.3             68052
+=              66,844.0
+66,842.3
+a                6,840.8
+
+66,600
+
+66,700
+
+66,900
+
+098        66.639.2
+
+© Open interest
+
+eo"
+
+$153.27
+
+-0.84% 24h
+
+124
+187
+15.1
+10.9
+215
+
+146
+221
+18.3
+
+198
+
+3 +
+
+© Liquidations
+
+786
+66.2
+475
+324
+216
+
+146
+367
+55.0
+824
+
+102.2
+
+& MAR
+
+128
+
+Hyperliquid
+
+ON-CHAIN TRADING
+
+KET DATA
+
+<1s
+
+© HYPE
+HYPE-PERP        i
+ve,                              at
+ih       $24.62       itil
+"|                  차
++3.91% 24n gf
+-0.0046%                    0.0124%
+$612M       Nien       해
+$2.038      24H VOLUN           $1148
+MARKET OVERVIEW
+al                $5.67B  +2.8%
+8                $16.4B  +12.1%
+%               0.0062% +0.0011%
+6                $18.7M  -34.6%
+
+=== slide 5/6 (img/05.jpg) ===
+IT TRACKS
+THE POSITION.
+
+PnL, bias shifts, stop updates, and exit logic in real time.
+
+HYPE / USDC          LONG         HYPE / USDC ~    15m    th    4h     1D                       +8.63%
+PERPETUALS
+
+0
+
+Entry Price                          24.10
+Mark Price                          26.18
+Unrealized Pn           +2,080.00 USDC
+(+8.63%)                                           ia
+jr!
+Stop Loss                              23.10                         A as         I,  #----------  Entry 24.10
+Take Profit                           2640 릴         iit | 00000
+타바!                                                      ;
+
+Current Bias                      BULLISH          i    ft                                                      aed
+
+Position                        Thesis                         Stop Moved            ry     Partial Taken                    Exit Signal
+>    Opened      >     al     Intact       >     없                                            도     8
+Long 24.10                Trend continues.            Stop raised                        t                Momentum
+based on breakout          Pn up +4.1%               24.80 to protect           Letting rest run              weakening
+and liquidity shift.             Holding position.              gains                       with trailing stop.              Preparing to exit
+
+or trail tighter
+
+WHAT CLAUDE WOULD DO NEXT
+
+If momentum strengthens                      ES                        If momentum weakens                         >
+＊ Keep remaining position open                            Ww      ＊ Tighten stop to lock in gains
+
+* Trail stop higher (e.g. to 25.80) Exit remaining position on breakdown
+
+* Look for add-on opportunity on continuation                              * Reassess bias if key support loses
+
+* Target 28.40 or higher based on momentum                             * Avoid re-entry until a new setup forms
+
+=== slide 6/6 (img/06.jpg) ===
+FOLLOW
+FOR MORE
+
+sanket.agent

@@ -1,0 +1,44 @@
+{
+  "id": "nU0dsSJkPZw",
+  "url": "https://www.youtube.com/watch?v=nU0dsSJkPZw",
+  "title": "새로운 AI Jev 미친 활용사례와 사용법 깔끔 정리 | #Jev #AI활용 #클로드코드",
+  "channel": "잔재미코딩(DaveLee)",
+  "upload_date": "2026-09-29",
+  "duration": "9:55",
+  "fetched_at": "2026-10-09T14:14:36+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "nU0dsSJkPZw.ko-orig.vtt",
+  "note": "whisper 미실행: box 가용 메모리 ~6GB(free -g available 6, 'well over 6' 아님) + 숫자 구간 짧음 → YouTube 자동자막(ko-orig). 폴더 슬러그 davelee(ingest 자동 추출, channel_slugs.tsv에 명시 추가)",
+  "topic": "ai-tools",
+  "tags": [
+    "비트코인·크립토",
+    "레버리지·매매법",
+    "Claude",
+    "ChatGPT·Codex",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

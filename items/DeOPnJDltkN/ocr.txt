@@ -1,0 +1,374 @@
+# tesseract 5 (kor+eng) raw OCR — 픽셀아트 폰트라 오인식 많음. 정제본은 transcript_clean.txt
+
+=== slide 1/8 (img/01.jpg) ===
+X  —       —  y
+
+ㆍ 6 GROK BOTS ~
+
+.. TURNED 589 INTO $68,024.
+© | REBUILT THE TEAM. 00
+
+|   고    ㅣ                   eit   S272
+Ae              :            rr :쓰  ida gotten         Bes
+a ” y             = 기 것                          |     ~ 소노
+가  hy A       Mapeeerrrrertl (rer Geet rereet Peet et erie sini
+
+am         | |e]         =]   a  &
+f=]              ; ws     hat ull oO =     BE         a
+=| | 호 |e)
+ees                 : |  |    «   FY    |  \=  ey
+= CHARTS   |     = RISK         = DECISION |
+fe      — ==  site
+~ Piss                          Rey
+려    04 ——     티|  J
+[>
+01  56007       02 - NEWS       03 ㆍ SENTIMENT     04 ㆍ CHARTS      05 ㆍ RISK       06 ㆍ DECISION
+
+@seb.ai                                                    1/8 >
+
+=== slide 2/8 (img/02.jpg) ===
+6011 FINDS
+
+IT SCANS THE MARKET FOR UNUSUAL MOVEMENT.
+
+!         Cie
+
+6
+
+18071
+
+Marts    두광 #크     pes ae    Pex     ¢            로 <    =,
+』 MARKET SCANNER               GLOBAL MARKETS
+
+SYMBOL    PRICE     vol      부트
+TSLA     248.10     3.9     —
+188.32     2.8M     +0.9:
+
+APL
+나     474.12    2.6"    =
+AMZN     178.30    2.1m    1
+NFLX     610.24     1.94
+
+|  SCOUT SCAN PROCESS -
+
+1. VOLUME                 2. MOVEMENT                3. MOMENTUM
+ill     FINDS SURGES          >    ~    DETECTS UNUSUAL | —>        ill   CONFIRMS
+.         IN TRADING VOLUME.                  PRICE MOVEMENT.            all       STRENGTH & TREND.
+
+ㆍ SENTIMENT
+
+ㆍ CHARTS
+
+1 ㆍ SCOUT      02 - NEWS       03            04            05 + RISK       06 ㆍ DECISION
+@' @ 8 @8° @' @d°
+@seb.ai                                                  2/8 >
+
+=== slide 3/8 (img/03.jpg) ===
+NVIDIA REPORTS STRONGER
+
+FED SIGNALS PATIENCE
+ON RATE CUTS
+
+OPPORTUNITY
+DETECTED
+
+~
+
+AMD ANNOUNCES NEW
+AL CHIP ROADMAP
+
+. BOT 2 CHECKS .
+^ WHAT JUST HAPPENED
+
+VY    NEWS, CATALYSTS AND MARKET CONTEXT.
+
+= GLOBAL NEWS
+
+mLIVE NEWS FEED _
+
+19:14 NUDA REPORTS EARNINGS
+
+FED HOLDS RATES
+AMD AI ROADMAP
+
+e
+
+@ 09:42
+127
+
+@ 0802
+
+e         META EXPANDS al
+
+e
+
+07:19
+E
+
+upPLY UPDAT!
+AAPL Si       a
+
+a
+
+MARKET SUMMARY
+
+Tech strength led by
+NVDA boosts sentiment
+across 61 stocks,
+while Fed holds rates
+steady. Momentum
+remains positive
+heading into next week.
+
+CATALYST TIMELINE
+
+10:14 NVDA EARNINGS BEAT
+09:42 FED RATE DECISION
+08:27 amp AT ROADMAP.
+07:19   META 67 EXPANSION
+06:53   000
+
+L SUPPLY ul
+
+1. HEADLINES
+MONITORS REAL-TIME
+MARKET NEWS.
+
+2. CATALYST
+IDENTIFIES KEY
+MARKET DRIVERS.
+
+CHARTS
+
+01 ㆍ SCOUT      02 + NEWS       03 ㆍ SENTIMENT    04 ㆍ
+@'|@') @' @
+
+@seb.ai
+
+3. CONTEXT
+PUTS EVENTS IN
+BIGGER PICTURE.
+
+05 + RISK      06 ㆍ DECISION
+
+3/8 >
+
+=== slide 4/8 (img/04.jpg) ===
+~     ~
+
+[ ’ BOTSREADS .:
+
+WHAT PEOPLE ARE SAYING ©
+
+ae      BULLISH, BEARISH OR PURE HYPE. ~~”
+
+@ LIVE SOCIAL FEED
+
+m DISCUSSION VOLUME
+
+@tradermax 20 0             SENTIMENT
+
+$NUDA looks unstoppable
+
+wa
+
+150K
+
+R45 921 NM            BEARISH                    ill
+
+aa
+
+100K
+
+F                   OS                                           F
+@cryptogirl 5m    책     도  aay                      i
+A     @  $COIN could run higher           &           eg    %                                 |
+고 고다이             é          .           ’ vol 1111
+@value_ben 12m    “     d          \                 ㅣ 을   1
+@  $AMD still risky imo                       Te               TRENDING KEYWORDS      | 1 Seq
+
+Pee vs W                       =>
+WOR 124K 소12001] ~
+
+보   9.8K 4 +196%
+EARNINGS 8.1K
+
+SENTIMENT SCORE
+@ai_insights 15m        -
+$META AI narrative is real           28%
+
+@3 va 0       BULLISH
+
+14%
+
+BEARISH
+
+58%
+HYPE
+
+t +947             .
+@macro_mike 18m 「          송 +72%         a
+Not convinced...   a s hype          ~—                     =       - COIN 5.9K               S| ig;
+en 936                                    —__    t +68    ale
+
+에 reoney|
+
+A  Positive
+
+| =
+
+겨 Neutra]
+i
+
+:                    ㅣ            NeGaTive |
+|
+
+3. HYPE CHECK
+
+SPOTS UNUSUAL
+BUZZ AND TRENDS.
+
+2. MOOD
+
+ANALYZES TONE
+AND SENTIMENT.
+
+1. POSTS
+
+COLLECTS REAL-TIME
+
+SOCIAL CONVERSATIONS.
+01 ㆍ SCOUT      02 + NEWS       03 + SENTIMENT || 04 - CHARTS      05 + RISK       06 ㆍ DECISION
+Qo 、  @ '                   @ oo @ '
+
+@seb.ai                                                                                     4/8 >
+
+=== slide 5/8 (img/05.jpg) ===
+BOT 4MARKS
+‘THE KEY LEVELS ©
+
+TREND. ENTRY. STOP. TARGET.        세
+
+|          340                                                                                          = JR ARGET | votume
+
+10       RESISTANCE     4
+
+| a: "~ wall
+
+대                                              t            4      =f—=-- -   TIMEFRAME
+" we ry     THEE
+
+^    on         ace   개                      1000 eervares  tm 5m th 4h {10
+Ale                 ft                      STOP         =
+AV   ie  ‘uti   we pall ee ea 수 er BIC ^
+<    Ww    Mie         “SUPPORT                 “ee
+14 lista 미비  9 | oe
+
+SST race acrs08
+
+—]    INDICATORS
+
+ST 때 annGeMENT                                                        ™              .
+i  TREND                  = LEVELS                         TRADE PLAN
+= MaRKS SUPPORT,                    MAPS A CLEAR
+1    OENTIEESIDIRECTION  나경 ——  RESISTANCE, ENTRY,   2            SETUP BEFORE
+:                       STOP AND TARGET.                     TAKING 6 TRADE,
+
+01 ㆍ SCOUT      02 ㆍ NEWS       03 ㆍ SENTIMENT       CHARTS      05 + RISK      | 6 ㆍ DECISION
+
+@seb.ai                                                                 5/8 >
+
+=== slide 6/8 (img/06.jpg) ===
+BOTS PROTECTS ^
+THE ACCOUNT =:
+
+IT CAN REDUCE OR REJECT ANY TRADE.
+
+… ^ 2 ㆍ
+
+RISK LIMITS           | f=
+
+MAX DAILY LOSS
+
+MAX POSITION SIZE
+
+9
+©,   ACCOUNT EXPOSURE         는
+$
+
+~
+
+|         CORRELATION LIMIT        ~
+
+|        at
+
+|        - ON
+
+“| POSITION SIZE                               - TRADE REVIEW           |
+A                    | Max Loss                      |
+
+50 ———)
+
+'                                                                  —            =
+a     SMALL MEDIUM LARGE     0) HiRGGGD      (ee APPROVE    |  FG
+
+t
+8           EQUITY                         [+ 000 | | al  ㆍ
+Yd             FOREX          ACCOUNT EXPOSURE       |                     | =
+
+| crypTo       xz #3 3 [x  REJECT    | |
+
+I OTHER
+
+(7 size
+
+[7 RISK/REWARD
+[2 exposure
+
+SIZE                               LOSS LIMIT                        EXPOSURE
+KEEP POSITIONS     -          RESPECT YOUR     =)            AVOID EXCESSIVE
+CONTROLLED                       MAX LOSS.                        ACCOUNT EXPOSURE.
+
+01 ㆍ SCOUT   |  02 - NEWS       03 ㆍ SENTIMENT    04 ㆍ CHARTS      05 + RISK     | 06 ㆍ DECISION
+@®' @' @®° 6@'@' @'
+|
+
+@seb.ai                                                                 6/8 >
+
+=== slide 7/8 (img/07.jpg) ===
+601 6 MAKES THE FINAL CALL
+
+BUY = WAIT = SKIP
+
+CHARTS
+
+W Ny all 0: “ifr a)}-  "~ 그
+
+lig abshat | amr Coal = lea We 호 =
+
+=          BUY                SKIP           --
+~                                                         rr  ~ =
+= 내                wal                                                  4
+| “|                                          로
+ㅜㅜ =       SIGNALS MIXED - WAITING       Ad
+F |   —        =                   oe    ㅣ =
+으으 ee 주 555 :으으려
+주 < ~ -- VON ==
+a                                                71
+01        oe | — [03] — [oa] — [os] —| Ge
+SCOUT     NEWS    SENTIMENT    CHARTS     RISK     DECISION J
+7/8 >
+
+@seb.ai
+
+=== slide 8/8 (img/08.jpg) ===
+| WANT THE 6-BOT SETUP?
+
+| COMMENT GROKG |
+
+I'LL SEND YOU THE FULL WORKFLOW + PROMPTS.
+ 6 BOT PROMPTS
+ WORKFLOW MAP
+분 RISK RULES
+
+@seb.ai                 NOT FINANCIAL ADVICE                    8/8

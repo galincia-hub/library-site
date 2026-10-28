@@ -1,0 +1,40 @@
+{
+  "id": "uQEU1-_zmV4",
+  "url": "https://www.youtube.com/watch?v=uQEU1-_zmV4",
+  "title": "암호화폐ㅣ국가 비축 시대, 미국에 이어 이스라엘까지 동참하나",
+  "channel": "전업코인부자",
+  "upload_date": "2026-10-26",
+  "duration": "19:14",
+  "fetched_at": "2026-10-27T13:14:52+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "uQEU1-_zmV4.ko-orig.vtt",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "홍보·협찬 포함"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

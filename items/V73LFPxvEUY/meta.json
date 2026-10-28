@@ -1,0 +1,57 @@
+{
+  "id": "V73LFPxvEUY",
+  "url": "https://www.youtube.com/watch?v=V73LFPxvEUY",
+  "title": "챗GPT로 네이버 검색도 합니다. 아직도 모르시는 분 99%인 거 같은데요?",
+  "channel": "Hawaii's Palace",
+  "upload_date": "2026-10-05",
+  "duration": "25:54",
+  "fetched_at": "2026-10-28T08:23:25+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "V73LFPxvEUY.ko-orig.vtt",
+  "topic": "ai-tools",
+  "tags": [
+    "Claude",
+    "ChatGPT·Codex",
+    "에이전트·자동화",
+    "사업·부업 아이디어",
+    "크루즈 연결",
+    "홍보·협찬 포함"
+  ],
+  "routing": {
+    "primary": 2,
+    "owner": "AI연구원",
+    "status": "추천",
+    "date": "2026-10-28",
+    "note": "2 (AI연구원). 보조로 4 마케팅연구원_진경(SNS 채널별 콘텐츠 재가공, 스레드→웹사이트 유입 흐름)",
+    "source": "summary.md",
+    "secondary": [
+      {
+        "number": 4,
+        "owner": "마케팅연구원_진경"
+      }
+    ]
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

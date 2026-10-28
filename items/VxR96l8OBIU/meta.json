@@ -1,0 +1,70 @@
+{
+  "id": "VxR96l8OBIU",
+  "url": "https://www.youtube.com/watch?v=VxR96l8OBIU",
+  "title": "비트코인 4년 주기, 이번에도 반복될까? | 시장전망",
+  "channel": "Professor Jo",
+  "upload_date": "2026-10-04",
+  "duration": "33:15",
+  "fetched_at": "2026-10-04T17:57:16+09:00",
+  "fetch_path": "captions",
+  "transcript_whisper": {
+    "model": "faster-whisper large-v3-turbo (float32, cpu)",
+    "runtime_sec": 540.9,
+    "created_at": "2026-10-04T18:07:23+09:00",
+    "file": "transcript_whisper.txt"
+  },
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "VxR96l8OBIU.ko-orig.vtt",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "MSTR·트레저리",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    },
+    {
+      "file": "transcript_whisper.txt",
+      "label": "Whisper 전사"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "FukltUIkCbU",
+      "title": "[주식] 261002 진짜 순환매는 이미 시작",
+      "via": "mentions this item"
+    },
+    {
+      "type": "library",
+      "id": "O3AxPtq4llQ",
+      "title": "AI에서 빠진 돈, 비트코인으로? 반도체보다 강한 이유",
+      "via": "mentions this item"
+    },
+    {
+      "type": "library",
+      "id": "ic830SJwAko",
+      "title": "스트래티지 지수 퇴출 위기, 비트코인 매수 흐름이 바뀐다",
+      "via": "mentions this item"
+    }
+  ],
+  "visibility": "public"
+}

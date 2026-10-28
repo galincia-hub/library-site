@@ -1,0 +1,209 @@
+{
+  "id": "NNRpJ7utH28",
+  "url": "https://www.youtube.com/watch?v=NNRpJ7utH28",
+  "title": "(서울대 출신 코덱스 해커톤 2등) 진짜 일하는 AI 에이전트 만드는 법",
+  "channel": "모범 AI",
+  "upload_date": "2026-10-17",
+  "duration": "45:25",
+  "fetched_at": "2026-10-27T08:26:25+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "NNRpJ7utH28.ko-orig.vtt",
+  "topic": "ai-agents-dev",
+  "tags": [
+    "Claude",
+    "ChatGPT·Codex",
+    "에이전트·자동화",
+    "홍보·협찬 포함",
+    "추가 산출물"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "Anthropic",
+      "url": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "MIT NANDA 보고서 PDF",
+      "url": "https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "Fortune",
+      "url": "https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "HBR IdeaCast, Dorothy Leonard",
+      "url": "https://hbr.org/podcast/2014/11/learning-what-wiser-workers-know",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "Hamel Husain 1",
+      "url": "https://hamel.dev/blog/posts/evals-faq/how-many-people-should-annotate-my-llm-outputs.html",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "2",
+      "url": "https://hamel.dev/blog/posts/evals-faq/why-is-error-analysis-so-important-in-llm-evals-and-how-is-it-performed.html",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "Bessemer 10원칙",
+      "url": "https://www.bvp.com/atlas/part-iv-ten-principles-for-building-strong-vertical-ai-businesses",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "State of AI 2025",
+      "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "Skift 2025-09-18",
+      "url": "https://skift.com/2025/09/18/royal-caribbean-ceo-ai-now-manages-15-million-price-points-a-day/",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "PR Newswire 2026-07-16",
+      "url": "https://www.prnewswire.com/news-releases/fora-raises-60m-at-1-billion-valuation-defining-a-new-category-of-entrepreneurs-302827629.html",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "TravelPulse 2026-10-22",
+      "url": "https://www.travelpulse.com/news/cruise/cruise-planners-unveils-new-ai-tools-and-technology-enhancements",
+      "from": "domain_knowhow.md"
+    },
+    {
+      "title": "저장소",
+      "url": "https://github.com/github/spec-kit/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Quickstart",
+      "url": "https://github.github.com/spec-kit/quickstart.html",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "GitHub 블로그",
+      "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Specs",
+      "url": "https://kiro.dev/docs/specs/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Requirements-First",
+      "url": "https://kiro.dev/docs/specs/feature-specs/requirements-first/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Quick Spec",
+      "url": "https://kiro.dev/docs/specs/quick-spec/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Claude Code 모범 사례",
+      "url": "https://code.claude.com/docs/en/best-practices",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "CLAUDE.md",
+      "url": "https://code.claude.com/docs/en/claude-md",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Claude Code Best Practices(연구 글)",
+      "url": "https://www.anthropic.com/research/claude-code-best-practices",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "agents.md",
+      "url": "https://agents.md/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Codex AGENTS.md 안내",
+      "url": "https://learn.chatgpt.com/docs/agent-configuration/agents-md",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "A practical guide to building agents(PDF)",
+      "url": "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Building effective agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Addy Osmani, How to write a good spec for AI agents",
+      "url": "https://addyosmani.com/blog/good-spec/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Birgitta Böckeler, Understanding Spec-Driven-Development",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Malte Ubl, Design Docs at Google",
+      "url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "Michael Nygard, Documenting Architecture Decisions",
+      "url": "https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions",
+      "from": "prd_knowhow.md"
+    },
+    {
+      "title": "www.linkedin.com",
+      "url": "https://www.linkedin.com/posts/runloopai_aiagents-codex-devtools-activity-7500321526815256577-OLCV",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.topstarnews.net",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=852515",
+      "from": "summary.md"
+    },
+    {
+      "title": "news.nate.com",
+      "url": "https://news.nate.com/view/20201224n10223",
+      "from": "summary.md"
+    },
+    {
+      "title": "vercel.com",
+      "url": "https://vercel.com/blog/introducing-eve",
+      "from": "summary.md"
+    },
+    {
+      "title": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+      "from": "summary.md"
+    }
+  ],
+  "related": [],
+  "visibility": "public"
+}

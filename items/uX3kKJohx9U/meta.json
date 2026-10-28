@@ -1,0 +1,42 @@
+{
+  "id": "uX3kKJohx9U",
+  "url": "https://www.youtube.com/watch?v=uX3kKJohx9U",
+  "title": "300만 엔으로 100억 엔 번 단타 천재의 이동평균선 매매법, 죽어라 이것만 하세요",
+  "channel": "불개미졸업반",
+  "upload_date": "2026-10-06",
+  "duration": "11:18",
+  "fetched_at": "2026-10-09T11:15:25+09:00",
+  "fetch_path": "captions",
+  "note": "자막: 업로더 제공 한국어 자막(ko-ko.vtt, 수동 자막 추정, 자동자막 아님) 사용. whisper 미실행: box 가용 메모리 ~2GB(free -g available 2) + 수동 자막이라 숫자 정확. 폴더 슬러그 bulgaemi-graduation(channel_slugs.tsv 추가)",
+  "caption_track": "manual",
+  "caption_lang": "ko",
+  "caption_file": "uX3kKJohx9U.ko.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "비트코인·크립토",
+    "레버리지·매매법",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

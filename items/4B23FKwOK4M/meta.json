@@ -1,0 +1,48 @@
+{
+  "id": "4B23FKwOK4M",
+  "url": "https://www.youtube.com/watch?v=4B23FKwOK4M",
+  "title": "[주식] 코스닥 급락한 날, 상한가 찍은 ‘이 종목’",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-27",
+  "duration": "49",
+  "fetched_at": "2026-10-27T19:11:59+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "4B23FKwOK4M.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "크루즈 연결",
+    "쇼츠·릴스"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "XSEzXwCi9K4",
+      "title": "[주식] 261026 로봇, 이제 시작일까?",
+      "via": "mentioned in this item"
+    }
+  ],
+  "visibility": "public"
+}

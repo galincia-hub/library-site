@@ -1,0 +1,74 @@
+{
+  "id": "Dd35IKFiRNb",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/p/Dd35IKFiRNb/",
+  "type": "carousel",
+  "media_count": 6,
+  "title": "I connected Claude to Hyperliquid",
+  "channel": "sanket_agent",
+  "account": "sanket_agent",
+  "account_name": "Sanket Agarwal | Discover AI Agents",
+  "account_id": "80653057585",
+  "upload_date": "2026-09-29",
+  "posted_at": "2026-09-29T22:42:32+09:00",
+  "likes": 592,
+  "comments": 54,
+  "fetched_at": "2026-10-12T01:04:10+09:00",
+  "fetch_path": "yt-dlp instagram extractor (anonymous, -J --ignore-no-formats-error): caption+meta+6 carousel images (1254x1254); OCR tesseract kor+eng",
+  "note": "이미지 6장 캐러셀(각 항목이 'Video by' 라벨이지만 formats 0, 정지 이미지만 존재 → 음성 없음, whisper 해당 없음, transcript.txt 없음). 사용자가 img_index=5 슬라이드를 지정. tesseract가 박스에서 사라져 있어 apt로 재설치(tesseract-ocr 5.5.0 + kor). likes/comments는 수집 시점(2026-10-12 01:0x KST) 값. 정제본은 OCR + 이미지 육안 확인으로 작성. 슬라이드 6 핸들은 @sanket.agent로 표기(실제 계정 sanket_agent).",
+  "topic": "ai-agents-dev",
+  "tags": [
+    "비트코인·크립토",
+    "레버리지·매매법",
+    "Claude",
+    "에이전트·자동화",
+    "크루즈 연결",
+    "쇼츠·릴스"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "슬라이드 텍스트 정리본"
+    },
+    {
+      "file": "caption.txt",
+      "label": "캡션 원문"
+    },
+    {
+      "file": "ocr.txt",
+      "label": "OCR"
+    },
+    {
+      "file": "img/01.jpg",
+      "label": "캐러셀 이미지"
+    },
+    {
+      "file": "img/02.jpg",
+      "label": "캐러셀 이미지"
+    },
+    {
+      "file": "img/03.jpg",
+      "label": "캐러셀 이미지"
+    },
+    {
+      "file": "img/04.jpg",
+      "label": "캐러셀 이미지"
+    },
+    {
+      "file": "img/05.jpg",
+      "label": "캐러셀 이미지"
+    },
+    {
+      "file": "img/06.jpg",
+      "label": "캐러셀 이미지"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

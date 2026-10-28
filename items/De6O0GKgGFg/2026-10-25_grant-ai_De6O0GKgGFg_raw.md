@@ -24,7 +24,61 @@
   "fetched_at": "2026-10-28T09:10:00+09:00",
   "fetch_path": "yt-dlp anonymous -J --ignore-no-formats-error (caption+meta, no cookies/login); 영상 임시 다운로드(720p)→ffmpeg 0.5초 간격 자막 영역 프레임→육안 판독(burn-in 자막); 영상 삭제",
   "whisper": "미실행: 가용 RAM 약 2GB(<6GB 조건). 화면 자막이 음성 전체를 덮는 것으로 보여 판독본 사용",
-  "note": "자동/수동 자막 트랙 없음. transcript.txt는 화면 자막 판독본. 캡션 하단은 작성자 자사 'AI 부트캠프' 홍보(댓글 키워드 DM 퍼널)."
+  "note": "자동/수동 자막 트랙 없음. transcript.txt는 화면 자막 판독본. 캡션 하단은 작성자 자사 'AI 부트캠프' 홍보(댓글 키워드 DM 퍼널).",
+  "topic": "business-marketing",
+  "tags": [
+    "에이전트·자동화",
+    "사업·부업 아이디어",
+    "크루즈 연결",
+    "홍보·협찬 포함",
+    "쇼츠·릴스"
+  ],
+  "routing": {
+    "primary": 3,
+    "owner": "사업연구원",
+    "status": "추천",
+    "date": "2026-10-28",
+    "note": "3 (사업연구원) — '업종 노하우 + AI팀 패키지 판매' 모델을 크루즈 AI 사업 아이디어로 참고. 보조 4(마케팅: 댓글 키워드 퍼널)",
+    "source": "summary.md",
+    "secondary": [
+      {
+        "number": 4,
+        "owner": "마케팅"
+      }
+    ]
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "화면 자막 판독본"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 정리본"
+    },
+    {
+      "file": "caption.txt",
+      "label": "캡션 원문"
+    },
+    {
+      "file": "img/01.jpg",
+      "label": "핵심 프레임"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "Deqy-Mexani",
+      "title": "클로드 구독으로 손님을 데려오는 하비",
+      "via": "mentioned in this item"
+    }
+  ],
+  "visibility": "public"
 }
 
 

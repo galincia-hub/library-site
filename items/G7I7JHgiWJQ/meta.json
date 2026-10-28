@@ -1,0 +1,40 @@
+{
+  "id": "G7I7JHgiWJQ",
+  "url": "https://www.youtube.com/watch?v=G7I7JHgiWJQ",
+  "title": "1만 달러의 2%로만 레버리지 50배 매매했더니 │ 3주 실제 거래내역 공개",
+  "channel": "은퇴학개론 - 집단지성 자동매매 연구소",
+  "upload_date": "2026-10-13",
+  "duration": "12:22",
+  "fetched_at": "2026-10-17T01:17:06+09:00",
+  "fetch_path": "captions",
+  "caption_track": "manual",
+  "caption_lang": "ko-1tAUxhK-Qig",
+  "caption_file": "G7I7JHgiWJQ.ko-1tAUxhK-Qig.vtt",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "레버리지·매매법"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

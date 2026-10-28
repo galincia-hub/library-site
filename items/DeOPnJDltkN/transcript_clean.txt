@@ -1,0 +1,46 @@
+# 정제 텍스트: 캡션 + 슬라이드 8장 텍스트 (OCR 후 이미지 육안 대조로 교정)
+
+[CAPTION]
+6 Grok bots. One trading account. Zero random decisions.
+I rebuilt the six-bot system behind the viral $89-to-$68,024 experiment.
+Each bot has one job:
+Scout finds opportunities / News checks what's happening / Sentiment tracks the market mood / Charts looks for setups / Risk protects the account / Decision makes the final BUY, WAIT, or SKIP call.
+The bots work together, but strict rules control every decision.
+The results shown in the original experiment are self-reported and aren't guaranteed. Start with simulations or paper trading and verify everything yourself.
+[promo: Comment "GROK6" → DM으로 프롬프트·워크플로·리스크 룰 발송 / Follow @seb.ai]
+Not financial advice.
+#AITrading #GrokAI #TradingBots #AIAgents #ArtificialIntelligence
+
+[SLIDE 1/8] 6 GROK BOTS TURNED $89 INTO $68,024. I REBUILT THE TEAM.
+(픽셀아트 트레이딩룸: 01 SCOUT · 02 NEWS · 03 SENTIMENT · 04 CHARTS · 05 RISK · 06 DECISION)
+
+[SLIDE 2/8] BOT 1 FINDS THE OPPORTUNITIES — It scans the market for unusual movement.
+MARKET SCANNER (예시): NVDA 905.20 4.2M +3.8% / TSLA 248.10 3.9M +2.6% / AMD 162.40 3.1M +2.4% / AAPL 188.32 2.8M +0.9% / META 474.12 2.6M +0.7% / COIN 208.50 5.1M +4.1% / AMZN 178.30 2.1M +1.3% / NFLX 610.24 1.9M +1.1%
+OPPORTUNITIES / WATCHLIST: NVDA, AMD, COIN
+SCOUT SCAN PROCESS: 1. VOLUME – finds surges in trading volume → 2. MOVEMENT – detects unusual price movement → 3. MOMENTUM – confirms strength & trend.
+
+[SLIDE 3/8] BOT 2 CHECKS WHAT JUST HAPPENED — News, catalysts and market context.
+BREAKING 10:14 NVIDIA reports stronger than expected earnings / MARKET 09:42 Fed signals patience on rate cuts / COMPANY 08:27 AMD announces new AI chip roadmap
+MARKET SUMMARY: Tech strength led by NVDA boosts sentiment across AI stocks, while Fed holds rates steady. Momentum remains positive heading into next week.
+LIVE NEWS FEED / CATALYST TIMELINE: 10:14 NVDA earnings beat · 09:42 Fed rate decision · 08:27 AMD AI roadmap · 07:19 Meta AI expansion · 06:53 AAPL supply update
+1. HEADLINES – monitors real-time market news → 2. CATALYST – identifies key market drivers → 3. CONTEXT – puts events in bigger picture.
+
+[SLIDE 4/8] BOT 3 READS WHAT PEOPLE ARE SAYING — Bullish, bearish or pure hype.
+LIVE SOCIAL FEED (예시): @tradermax "$NVDA looks unstoppable" / @cryptogirl "$COIN could run higher" / @value_ben "$AMD still risky imo" / @ai_insights "$META AI narrative is real" / @macro_mike "Not convinced... feels hype"
+SENTIMENT SCORE 72 — 28% BULLISH / 14% BEARISH / 58% HYPE
+DISCUSSION VOLUME +142% (24h) / TRENDING KEYWORDS: NVDA 12.4K +210%, AI 9.8K +186%, EARNINGS 8.1K +94%, AMD 6.7K +72%, COIN 5.9K +68%
+1. POSTS – collects real-time social conversations → 2. MOOD – analyzes tone and sentiment → 3. HYPE CHECK – spots unusual buzz and trends.
+
+[SLIDE 5/8] BOT 4 MARKS THE KEY LEVELS — Trend. Entry. Stop. Target.
+(차트: TREND 상승추세선, SUPPORT, RESISTANCE, ENTRY, STOP, TARGET / TIMEFRAME 1m 5m 1h 4h 1D / BTC·ETH·SOL 미니차트)
+TREND – identifies direction and structure → LEVELS – marks support, resistance, entry, stop and target → TRADE PLAN – maps a clear setup before taking a trade.
+
+[SLIDE 6/8] BOT 5 PROTECTS THE ACCOUNT — It can reduce or reject any trade.
+RISK LIMITS: Max daily loss / Max position size / Account exposure / Correlation limit
+POSITION SIZE (small–medium–large; equity/forex/crypto/other) · MAX LOSS · ACCOUNT EXPOSURE · TRADE REVIEW: APPROVE / REDUCE / REJECT · checklist: size, risk/reward, exposure, correlation · RISK STOP
+SIZE – keep positions controlled → LOSS LIMIT – respect your max loss → EXPOSURE – avoid excessive account exposure.
+
+[SLIDE 7/8] BOT 6 MAKES THE FINAL CALL — BUY · WAIT · SKIP
+(Scout·News·Sentiment·Charts·Risk 신호 → Decision) 화면 표시: WAIT — "SIGNALS MIXED – WAITING"
+
+[SLIDE 8/8] [promo] WANT THE 6-BOT SETUP? COMMENT GROK6 — I'll send you the full workflow + prompts: 6 bot prompts / workflow map / risk rules. NOT FINANCIAL ADVICE.

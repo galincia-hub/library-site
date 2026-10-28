@@ -1,0 +1,42 @@
+{
+  "id": "9gx1EEBv22M",
+  "url": "https://www.youtube.com/watch?v=9gx1EEBv22M",
+  "title": "머스크의 이번 전략은 미쳤습니다",
+  "channel": "묘수의 관점",
+  "upload_date": "2026-10-08",
+  "duration": "13:18",
+  "fetched_at": "2026-10-08T19:28:59+09:00",
+  "fetch_path": "captions",
+  "note": "whisper 미실행: box 가용 메모리 ~5GB(free -g available 5) + 숫자 중요 구간 없음(AI 의견 방송) → YouTube 자동자막(ko) 사용. 폴더 슬러그 myosu-perspective(channel_slugs.tsv 추가)",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "9gx1EEBv22M.ko-orig.vtt",
+  "topic": "ai-tools",
+  "tags": [
+    "Claude",
+    "에이전트·자동화",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

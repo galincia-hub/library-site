@@ -1,0 +1,43 @@
+{
+  "id": "ckKerNqf8rg",
+  "url": "https://www.youtube.com/watch?v=ckKerNqf8rg",
+  "title": "[주식] 261021 탄력 떨어지는 IT, 큰 시세는 이쪽에서",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-21",
+  "duration": "41:33",
+  "fetched_at": "2026-10-21T19:10:13+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "ckKerNqf8rg.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "레버리지·매매법",
+    "에이전트·자동화",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

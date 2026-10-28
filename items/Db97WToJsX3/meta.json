@@ -1,0 +1,88 @@
+{
+  "id": "Db97WToJsX3",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/Db97WToJsX3/",
+  "type": "reel",
+  "duration_s": 44,
+  "title": "Video by pageone.designer",
+  "channel": "pageone.designer",
+  "account": "pageone.designer",
+  "account_name": "한장 (Page One) | 글로벌 • 디자인 수익화",
+  "account_id": "73482642975",
+  "upload_date": "2026-08-13",
+  "posted_at": "2026-08-13 (timestamp 1786597133, KST)",
+  "likes": 3448,
+  "comments": 3097,
+  "fetched_at": "2026-10-23T07:50:00+09:00",
+  "fetch_path": "yt-dlp anonymous -J (caption+meta); 영상 임시 다운로드→ffmpeg 3초 간격 키프레임 15장→육안 판독(자막 burn-in); 영상 삭제",
+  "whisper": "미실행: 가용 RAM 약 2GB(<6GB 조건)",
+  "note": "자동/수동 자막 트랙 없음. transcript.txt는 화면 자막 판독본. 업로드 월은 8월이지만 지시대로 2026/10 경로에 저장.",
+  "topic": "business-marketing",
+  "tags": [
+    "사업·부업 아이디어",
+    "쇼츠·릴스"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "화면 자막 판독본"
+    },
+    {
+      "file": "caption.txt",
+      "label": "캡션 원문"
+    },
+    {
+      "file": "img/keyframes.jpg",
+      "label": "핵심 프레임"
+    }
+  ],
+  "references": [
+    {
+      "title": "www.upwork.com",
+      "url": "https://www.upwork.com/resources/maximizing-your-upwork-connects",
+      "from": "summary.md"
+    },
+    {
+      "title": "support.upwork.com",
+      "url": "https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects",
+      "from": "summary.md"
+    },
+    {
+      "title": "community.upwork.com",
+      "url": "https://community.upwork.com/t5/Product-Release-Notes/Marketplace-Updates-Changes-to-Upwork-Application-Prices/ba-p/1397770",
+      "from": "summary.md"
+    },
+    {
+      "title": "support.upwork.com",
+      "url": "https://support.upwork.com/hc/en-us/articles/4406395531795-How-to-boost-your-proposal",
+      "from": "summary.md"
+    },
+    {
+      "title": "support.upwork.com",
+      "url": "https://support.upwork.com/hc/en-us/articles/211062538-Learn-about-the-Freelancer-Service-Fee",
+      "from": "summary.md"
+    },
+    {
+      "title": "upwork.pactsafe.io",
+      "url": "https://upwork.pactsafe.io/versions/67ed7a58343b0bc9ae34112a.pdf",
+      "from": "summary.md"
+    },
+    {
+      "title": "help.fiverr.com",
+      "url": "https://help.fiverr.com/hc/en-us/articles/34069565843985-How-Fiverr-works-for-freelancers",
+      "from": "summary.md"
+    },
+    {
+      "title": "help.fiverr.com",
+      "url": "https://help.fiverr.com/hc/en-us/articles/360050216133-Paying-for-orders-extras-or-custom-offers",
+      "from": "summary.md"
+    }
+  ],
+  "related": [],
+  "visibility": "public"
+}

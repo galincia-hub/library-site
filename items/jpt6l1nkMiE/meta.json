@@ -1,0 +1,40 @@
+{
+  "id": "jpt6l1nkMiE",
+  "url": "https://www.youtube.com/watch?v=jpt6l1nkMiE",
+  "title": "AI로 앱 10개, 웹사이트 30개 만들고 깨달은 것",
+  "channel": "빌더 조쉬 Builder Josh",
+  "upload_date": "2026-10-13",
+  "duration": "52",
+  "fetched_at": "2026-10-14T07:46:07+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "jpt6l1nkMiE.ko-orig.vtt",
+  "topic": "ai-agents-dev",
+  "tags": [
+    "홍보·협찬 포함",
+    "쇼츠·릴스"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

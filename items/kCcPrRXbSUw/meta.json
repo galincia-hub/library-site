@@ -1,0 +1,41 @@
+{
+  "id": "kCcPrRXbSUw",
+  "url": "https://www.youtube.com/watch?v=kCcPrRXbSUw",
+  "title": "\"미국이 전재산 걸었습니다\" 비트코인 곧 난리날 겁니다 [이효석 대표 4부]",
+  "channel": "부읽남TV_내집마련부터건물주까지",
+  "upload_date": "2026-10-26",
+  "duration": "15:59",
+  "fetched_at": "2026-10-27T07:44:10+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "kCcPrRXbSUw.ko-orig.vtt",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "에이전트·자동화",
+    "홍보·협찬 포함"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

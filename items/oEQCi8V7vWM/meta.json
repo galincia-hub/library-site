@@ -1,0 +1,48 @@
+{
+  "id": "oEQCi8V7vWM",
+  "url": "https://www.youtube.com/watch?v=oEQCi8V7vWM",
+  "title": "0.3 BTC After 55: The New Retirement Number",
+  "channel": "WealthMode",
+  "upload_date": "2026-10-02",
+  "duration": "9:52",
+  "fetched_at": "2026-10-04T19:42:35+09:00",
+  "fetch_path": "description",
+  "transcript_whisper": {
+    "model": "faster-whisper large-v3-turbo (float32, cpu)",
+    "runtime_sec": 160.4,
+    "created_at": "2026-10-04T19:45:58+09:00",
+    "file": "transcript_whisper.txt",
+    "lang": "en",
+    "note": "07:38~09:52 구간 whisper 환각(반복 \"$25,000\"/\"Thank you\") — VAD·구간 재시도 모두 실패. 해당 구간 내용은 화면 텍스트(frames 확인)로 보완."
+  },
+  "caption_track": "none",
+  "caption_lang": null,
+  "caption_file": null,
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "영상 설명(자막 없음)"
+    },
+    {
+      "file": "transcript_whisper.txt",
+      "label": "Whisper 전사"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "LHf_UBKQCpA",
+  "url": "https://www.youtube.com/watch?v=LHf_UBKQCpA",
+  "title": "[주식] 261007 코스닥 추세전환 / 주도주는 다 여기에",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-07",
+  "duration": "51:05",
+  "fetched_at": "2026-10-08T19:17:00+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "LHf_UBKQCpA.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "에이전트·자동화",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "FukltUIkCbU",
+      "title": "[주식] 261002 진짜 순환매는 이미 시작",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "fiBAl_-8Et8",
+      "title": "[주식] 261012 결국 살아남을 종목들",
+      "via": "mentions this item"
+    }
+  ],
+  "visibility": "public"
+}

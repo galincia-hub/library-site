@@ -1,0 +1,48 @@
+{
+  "id": "C97n-dopD6k",
+  "url": "https://www.youtube.com/watch?v=C97n-dopD6k",
+  "title": "[주식] 261016 이제 이 종목은 보고있어야 합니다",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-16",
+  "duration": "36:30",
+  "fetched_at": "2026-10-16T19:14:34+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "C97n-dopD6k.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "O3AxPtq4llQ",
+      "title": "AI에서 빠진 돈, 비트코인으로? 반도체보다 강한 이유",
+      "via": "mentions this item"
+    }
+  ],
+  "visibility": "public"
+}

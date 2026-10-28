@@ -1,0 +1,199 @@
+{
+  "id": "ic830SJwAko",
+  "url": "https://www.youtube.com/watch?v=ic830SJwAko",
+  "title": "스트래티지 지수 퇴출 위기, 비트코인 매수 흐름이 바뀐다",
+  "channel": "새벽에온주호",
+  "upload_date": "2026-10-17",
+  "duration": "22:25",
+  "fetched_at": "2026-10-17T22:47:50+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "ic830SJwAko.ko-orig.vtt",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "MSTR·트레저리",
+    "사업·부업 아이디어",
+    "크루즈 연결",
+    "추가 산출물"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "app2.msci.com",
+      "url": "https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=aq0wbkjxPgo",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.stocktitan.net",
+      "url": "https://www.stocktitan.net/sec-filings/MSTR/8-k-strategy-inc-reports-material-event-adcac7c6c20f.html",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/mstr-ex99_1.htm",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.nasdaq.com",
+      "url": "https://www.nasdaq.com/press-release/strategy-announces-earnings-release-date-and-live-video-webinar-third-quarter-2026",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.lseg.com",
+      "url": "https://www.lseg.com/en/media-centre/press-releases/ftse-russell/2026/ftse-russell-announces-december-2026-russell-us-indexes-reconstitution-schedule",
+      "from": "schedule.md"
+    },
+    {
+      "title": "stockanalysis.com",
+      "url": "https://stockanalysis.com/stocks/strc/dividend/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "app2.msci.com",
+      "url": "https://app2.msci.com/eqb/pressreleases/archive/ir_dates.pdf",
+      "from": "schedule.md"
+    },
+    {
+      "title": "news.bitcoin.com",
+      "url": "https://news.bitcoin.com/crypto-news/saylor-strikes-back-strategy-slams-mscis-flawed-index-test/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.coindesk.com",
+      "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
+      "from": "schedule.md"
+    },
+    {
+      "title": "farside.co.uk",
+      "url": "https://farside.co.uk/btc/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "river.com",
+      "url": "https://river.com/content/business-adoption-report-2026",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.coindesk.com",
+      "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/strategy-shares-dip-as-msci-adopts-rules-that-could-oust-it-from-its-indexes-4953500",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.reuters.com",
+      "url": "https://www.reuters.com/business/msci-drops-plan-exclude-digital-asset-treasury-firms-launch-broader-review-2026-01-06/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/msci-decision-moves-michael-saylor-s-strategy-toward-index-exit",
+      "from": "summary.md"
+    },
+    {
+      "title": "bingx.com",
+      "url": "https://bingx.com/de-de/flash-news/post/msci-adopts-non-operating-company-exclusion-rules-strategy-stock-drops-after-hours",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.theblock.co",
+      "url": "https://www.theblock.co/news/business/2025-11-20-jpmorgan-strategy-billions-outflows-msci-other-indices-remove-379778",
+      "from": "summary.md"
+    },
+    {
+      "title": "decrypt.co",
+      "url": "https://decrypt.co/349464/bitcoin-giant-strategy-shed-billions-removed-stock-indices-jpmorgan",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.theblock.co",
+      "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.coindesk.com",
+      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526375463/mstr-20260831.htm",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/mstr-20260630.htm",
+      "from": "summary.md"
+    },
+    {
+      "title": "decrypt.co",
+      "url": "https://decrypt.co/372189/strategy-saylor-volatility-test-strc-new-low-bitcoin-weakness",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.coindesk.com",
+      "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.bitbo.io",
+      "url": "https://www.bitbo.io/treasuries/us-etfs/",
+      "from": "summary.md"
+    },
+    {
+      "title": "etfbit.com",
+      "url": "https://etfbit.com/news/bitcoin-etf-flows-week-oct-5-9-2026/",
+      "from": "summary.md"
+    }
+  ],
+  "related": [
+    {
+      "type": "library",
+      "id": "4D60Cjh_yoU",
+      "title": "SEC, 비트코인·이더리움 3배 상품 허용…어떤 알트코인까지 가능할까?",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "VxR96l8OBIU",
+      "title": "비트코인 4년 주기, 이번에도 반복될까? | 시장전망",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "qHsGOnr5bRw",
+      "title": "MSTR 주가 여기까지 상승한다! 신규 mNAV 기반, 주가 시뮬레이션",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "O3AxPtq4llQ",
+      "title": "AI에서 빠진 돈, 비트코인으로? 반도체보다 강한 이유",
+      "via": "mentions this item"
+    }
+  ],
+  "visibility": "public"
+}

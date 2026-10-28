@@ -1,0 +1,440 @@
+{
+  "id": "O3AxPtq4llQ",
+  "url": "https://www.youtube.com/watch?v=O3AxPtq4llQ",
+  "title": "AI에서 빠진 돈, 비트코인으로? 반도체보다 강한 이유",
+  "channel": "Professor Jo",
+  "upload_date": "2026-10-18",
+  "duration": "35:46",
+  "fetched_at": "2026-10-18T18:53:51+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "O3AxPtq4llQ.ko-orig.vtt",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "MSTR·트레저리",
+    "크루즈 연결",
+    "추가 산출물"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "www.newsquawk.com",
+      "url": "https://www.newsquawk.com/headlines/crude-wrap-wti-x6-settles-usd-344-higher-at-usd-10141bbl-brent-z6-settles-usd-394-higher-at-usd-10986bbl",
+      "from": "schedule.md"
+    },
+    {
+      "title": "investors.strive.com",
+      "url": "https://investors.strive.com/news-events/news-releases/news-details/2026/Strive-Announces-Pricing-of-Upsized-Initial-Public-Offering-of-SATS-Stock/default.aspx",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.earningswhispers.com",
+      "url": "https://www.earningswhispers.com/calweek",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.tipranks.com",
+      "url": "https://www.tipranks.com/news/major-earnings-this-week-october-19-23-2026",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.morningstar.com",
+      "url": "https://www.morningstar.com/markets/whats-happening-markets-this-week-28",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.financecalendar.com",
+      "url": "https://www.financecalendar.com/event/orcl-earnings-december-2026/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "days.to",
+      "url": "https://days.to/oracle-earnings/q2-fy2027",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.gov.il",
+      "url": "https://www.gov.il/en/pages/knesset26-date",
+      "from": "schedule.md"
+    },
+    {
+      "title": "blogs.loc.gov",
+      "url": "https://blogs.loc.gov/law/2026/10/falqs-israels-upcoming-election-on-october-27-2026/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "federalreserve.gov",
+      "url": "https://federalreserve.gov/newsevents/2026-october.htm",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/14/fed-may-now-have-to-hike-twice-or-increase-by-a-half-point-in-december-traders-bet.html",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.signalstack.news",
+      "url": "https://www.signalstack.news/earnings/q3-2026/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "earnings.fru.dev",
+      "url": "https://earnings.fru.dev/calendar",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.bea.gov",
+      "url": "https://www.bea.gov/news/schedule",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.conference-board.org",
+      "url": "https://www.conference-board.org/research/policy-backgrounders/the-war-in-the-gulf-to-the-midterms",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.gov.il",
+      "url": "https://www.gov.il/en/pages/knesset-elections-2026",
+      "from": "schedule.md"
+    },
+    {
+      "title": "www.bls.gov",
+      "url": "https://www.bls.gov/schedule/2026/11_sched.htm",
+      "from": "schedule.md"
+    },
+    {
+      "title": "neocloudbrief.com",
+      "url": "https://neocloudbrief.com/calendar/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "the-decoder.com",
+      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+      "from": "schedule.md"
+    },
+    {
+      "title": "news.finst.com",
+      "url": "https://news.finst.com/en/articles/blackrock-crypto-etf-assets-rise-q3",
+      "from": "summary.md"
+    },
+    {
+      "title": "forklog.com",
+      "url": "https://forklog.com/en/blackrock-says-rotation-into-ai-is-among-factors-weighing-on-bitcoin/",
+      "from": "summary.md"
+    },
+    {
+      "title": "bitcoinalmanack.com",
+      "url": "https://bitcoinalmanack.com/etfs/bitcoin-etf-flow-tracker/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.statmuse.com",
+      "url": "https://www.statmuse.com/money/ask/bitcoin-price-chart-2026-by-day",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.koreaherald.com",
+      "url": "https://www.koreaherald.com/article/10906189",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.hankyung.com",
+      "url": "https://www.hankyung.com/article/2026101673987",
+      "from": "summary.md"
+    },
+    {
+      "title": "research.glassnode.com",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-42-2026/",
+      "from": "summary.md"
+    },
+    {
+      "title": "research.glassnode.com",
+      "url": "https://research.glassnode.com/the-week-onchain-week-41-2026/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.tradingnews.com",
+      "url": "https://www.tradingnews.com/news/spot-bitcoin-etfs-post-a-5m-usd-trickle-after-261m-usd-exit-as-ibit-etf-carries-the-category",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.theblock.co",
+      "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065595/asst-20261013.htm",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.cryptotimes.io",
+      "url": "https://www.cryptotimes.io/2026/10/17/ethereum-etfs-lose-320m-as-crypto-funds-record-610m-in-weekly-outflows/",
+      "from": "summary.md"
+    },
+    {
+      "title": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-nears-5-161813682.html",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.investing.com",
+      "url": "https://www.investing.com/analysis/ether-loses-key-buyers-as-bitmine-nears-its-5-supply-cap-200689215",
+      "from": "summary.md"
+    },
+    {
+      "title": "yieldo.me",
+      "url": "https://yieldo.me/revenue",
+      "from": "summary.md"
+    },
+    {
+      "title": "defillama.com",
+      "url": "https://defillama.com/revenue",
+      "from": "summary.md"
+    },
+    {
+      "title": "castlelabs.io",
+      "url": "https://castlelabs.io/research/hyperliquid-revenue",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.sec.gov",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-101326-statement-commissions-approval-proposed-rule-change-permit-listing-binary-options-overlying-key",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.sec.gov",
+      "url": "https://www.sec.gov/files/rules/sro/cboe/2026/34-106659.pdf",
+      "from": "summary.md"
+    },
+    {
+      "title": "natlawreview.com",
+      "url": "https://natlawreview.com/article/sec-approval-opens-door-event-based-trading-securities-markets",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.donga.com",
+      "url": "https://www.donga.com/news/Society/article/all/20260917/134689353/1",
+      "from": "summary.md"
+    },
+    {
+      "title": "biz.chosun.com",
+      "url": "https://biz.chosun.com/stock/finance/2026/10/11/CYTQHRLXG5BELPJK52UNPYCIGY/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.blockmedia.co.kr",
+      "url": "https://www.blockmedia.co.kr/archives/1140466",
+      "from": "summary.md"
+    },
+    {
+      "title": "exa.ai",
+      "url": "https://exa.ai/library/markets/index/NDX?date=2026-10-16&view=series&from=2026-10-09",
+      "from": "summary.md"
+    },
+    {
+      "title": "exa.ai",
+      "url": "https://exa.ai/library/markets/stock/NVDA?date=2026-10-16&view=series&from=2026-10-09",
+      "from": "summary.md"
+    },
+    {
+      "title": "exa.ai",
+      "url": "https://exa.ai/library/markets/stock/TSLA?date=2026-10-16&view=series&from=2026-10-09",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.businesstoday.com.my",
+      "url": "https://www.businesstoday.com.my/2026/10/18/bitcoin-slides-2-4-ethereum-drops-4-5-as-crypto-market-ends-week-lower/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/coreweave-bond-rout-tests-markets-math-on-ai-buildout-4953576",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.aiaffairs.com",
+      "url": "https://www.aiaffairs.com/markets/coreweave-credit-swaps-record-bond-yield-october-2026/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount-4951350",
+      "from": "summary.md"
+    },
+    {
+      "title": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/economy/policy/articles/hot-september-cpi-sends-rate-131846678.html",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.axios.com",
+      "url": "https://www.axios.com/2026/10/08/openai-50-billion-arr-anthropic-revenue-accounting",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.cnn.com",
+      "url": "https://www.cnn.com/2026/10/08/investing/openai-nasdaq-stocks",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.cmegroup.com",
+      "url": "https://www.cmegroup.com/daily_bulletin/current/Section10_Interest_Rate_Futures_Continued.pdf",
+      "from": "summary.md"
+    },
+    {
+      "title": "convextrade.com",
+      "url": "https://convextrade.com/metrics/bamlh0a0hym2",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.bnpparibas-am.com",
+      "url": "https://www.bnpparibas-am.com/en/front-of-mind/view-from-the-markets-is-high-yield-credit-flashing-a-warning-sign/",
+      "from": "summary.md"
+    },
+    {
+      "title": "home.treasury.gov",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.investing.com",
+      "url": "https://www.investing.com/news/forex-news/eurozone-yields-languish-near-multiweek-lows-as-safehaven-inflows-4953291",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.financialjuice.com",
+      "url": "https://www.financialjuice.com/News/9809267/NYMEX-WTI-crude-futures-settle-at-10141-a-barrel-up-344-351.aspx",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.wsj.com",
+      "url": "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.jpost.com",
+      "url": "https://www.jpost.com/middle-east/article-911957",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.mako.co.il",
+      "url": "https://www.mako.co.il/news-military/2026_q4/Article-d4b31f9689541a1027.htm",
+      "from": "summary.md"
+    },
+    {
+      "title": "thepeninsulaqatar.com",
+      "url": "https://thepeninsulaqatar.com/article/16/10/2026/qatar-urges-diplomacy-and-respect-for-international-law-to-secure-lasting-mideast-peace",
+      "from": "summary.md"
+    },
+    {
+      "title": "news.skhynix.com",
+      "url": "https://news.skhynix.com/en/fact-11/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.reuters.com",
+      "url": "https://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25/",
+      "from": "summary.md"
+    },
+    {
+      "title": "www.investing.com",
+      "url": "https://www.investing.com/news/economy-news/ai-selloff-hammers-hedge-funds-this-week-asia-managers-lead-losses-4952963",
+      "from": "summary.md"
+    },
+    {
+      "title": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4653826-investors-have-reversed-all-global-ai-net-buying-since-2025-goldman-sachs-prime-book",
+      "from": "summary.md"
+    },
+    {
+      "title": "cryptobriefing.com",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-unwind-rotation-not-liquidation/",
+      "from": "summary.md"
+    },
+    {
+      "title": "api.binance.com",
+      "url": "https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=1000",
+      "from": "summary.md"
+    }
+  ],
+  "related": [
+    {
+      "type": "library",
+      "id": "4D60Cjh_yoU",
+      "title": "SEC, 비트코인·이더리움 3배 상품 허용…어떤 알트코인까지 가능할까?",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "C97n-dopD6k",
+      "title": "[주식] 261016 이제 이 종목은 보고있어야 합니다",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "VxR96l8OBIU",
+      "title": "비트코인 4년 주기, 이번에도 반복될까? | 시장전망",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "fiBAl_-8Et8",
+      "title": "[주식] 261012 결국 살아남을 종목들",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "ic830SJwAko",
+      "title": "스트래티지 지수 퇴출 위기, 비트코인 매수 흐름이 바뀐다",
+      "via": "mentioned in this item"
+    },
+    {
+      "type": "library",
+      "id": "qHsGOnr5bRw",
+      "title": "MSTR 주가 여기까지 상승한다! 신규 mNAV 기반, 주가 시뮬레이션",
+      "via": "mentioned in this item"
+    }
+  ],
+  "visibility": "public"
+}

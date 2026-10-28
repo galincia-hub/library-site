@@ -1,0 +1,149 @@
+{
+  "id": "g6yLR8sNTyk",
+  "url": "https://www.youtube.com/watch?v=g6yLR8sNTyk",
+  "title": "엑셀·워드·PPT·노션까지 AI로 똑같이 만들어봤습니다 (리버스 엔지니어링, Claude Code·Codex)",
+  "channel": "리트머스",
+  "upload_date": "2026-10-23",
+  "duration": "22:06",
+  "fetched_at": "2026-10-26T07:52:01+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "g6yLR8sNTyk.ko-orig.vtt",
+  "topic": "ai-agents-dev",
+  "tags": [
+    "Claude",
+    "ChatGPT·Codex",
+    "에이전트·자동화",
+    "홍보·협찬 포함",
+    "추가 산출물"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "github.com",
+      "url": "https://github.com/litmers-dev/litpage",
+      "from": "research.md"
+    },
+    {
+      "title": "github.com",
+      "url": "https://github.com/litmers-dev/litpage/blob/main/docs/how-it-was-built.md",
+      "from": "research.md"
+    },
+    {
+      "title": "github.com",
+      "url": "https://github.com/litmers-dev/litpage/blob/main/docs/architecture.md",
+      "from": "research.md"
+    },
+    {
+      "title": "github.com",
+      "url": "https://github.com/morluto/rea",
+      "from": "research.md"
+    },
+    {
+      "title": "www.npmjs.com",
+      "url": "https://www.npmjs.com/package/rea-agents",
+      "from": "research.md"
+    },
+    {
+      "title": "rea.tools",
+      "url": "https://rea.tools/",
+      "from": "research.md"
+    },
+    {
+      "title": "reversedwithai.com",
+      "url": "https://reversedwithai.com/learn/getting-started-with-rea",
+      "from": "research.md"
+    },
+    {
+      "title": "github.com",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "from": "research.md"
+    },
+    {
+      "title": "playwright.dev",
+      "url": "https://playwright.dev/",
+      "from": "research.md"
+    },
+    {
+      "title": "vitest.dev",
+      "url": "https://vitest.dev/",
+      "from": "research.md"
+    },
+    {
+      "title": "www.anthropic.com",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "from": "research.md"
+    },
+    {
+      "title": "help.openai.com",
+      "url": "https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex",
+      "from": "research.md"
+    },
+    {
+      "title": "www.notion.com",
+      "url": "https://www.notion.com/notion/terms-and-privacy",
+      "from": "research.md"
+    },
+    {
+      "title": "www.microsoft.com",
+      "url": "https://www.microsoft.com/en-us/servicesagreement",
+      "from": "research.md"
+    },
+    {
+      "title": "www.law.go.kr",
+      "url": "https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=04&joNo=0101&lsiSeq=283335&urlMode=lsScJoRltInfoR",
+      "from": "research.md"
+    },
+    {
+      "title": "www.easylaw.go.kr",
+      "url": "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?ccfNo=3&cciNo=2&cnpClsNo=8&csmSeq=695&popMenu=ov",
+      "from": "research.md"
+    },
+    {
+      "title": "litpage-demo-production.up.railway.app",
+      "url": "https://litpage-demo-production.up.railway.app",
+      "from": "research.md"
+    },
+    {
+      "title": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview.md",
+      "from": "research.md"
+    },
+    {
+      "title": "support.claude.com",
+      "url": "https://support.claude.com/en/articles/11049741-what-is-the-max-plan",
+      "from": "research.md"
+    },
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Notion_(productivity_software",
+      "from": "research.md"
+    },
+    {
+      "title": "www.notion.com",
+      "url": "https://www.notion.com/blog/100-million-of-you",
+      "from": "research.md"
+    }
+  ],
+  "related": [],
+  "visibility": "public"
+}

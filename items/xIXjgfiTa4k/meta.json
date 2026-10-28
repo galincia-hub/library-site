@@ -1,0 +1,54 @@
+{
+  "id": "xIXjgfiTa4k",
+  "url": "https://www.youtube.com/watch?v=xIXjgfiTa4k",
+  "title": "화제의 '동네 치과 AX 전환기' 보고, 미니PC 1대로 따라 해봤습니다. GEEKOM IT13 Max",
+  "channel": "고고!포스트잇!(GoGo!Post_IT)",
+  "upload_date": "2026-10-26",
+  "duration": "11:03",
+  "fetched_at": "2026-10-28T08:33:24+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "xIXjgfiTa4k.ko-orig.vtt",
+  "topic": "ai-agents-dev",
+  "tags": [
+    "ChatGPT·Codex",
+    "크루즈 연결",
+    "홍보·협찬 포함"
+  ],
+  "routing": {
+    "primary": 2,
+    "owner": "AI연구원",
+    "status": "추천",
+    "date": "2026-10-28",
+    "note": "2 (AI연구원). 보조로 3 사업연구원(크루즈 AI의 개인정보 로컬 마스킹 → 클라우드 추론 패턴 참고)",
+    "source": "summary.md",
+    "secondary": [
+      {
+        "number": 3,
+        "owner": "사업연구원"
+      }
+    ]
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

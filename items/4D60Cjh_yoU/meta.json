@@ -1,0 +1,54 @@
+{
+  "id": "4D60Cjh_yoU",
+  "url": "https://www.youtube.com/watch?v=4D60Cjh_yoU",
+  "title": "SEC, 비트코인·이더리움 3배 상품 허용…어떤 알트코인까지 가능할까?",
+  "channel": "새벽에온주호",
+  "upload_date": "2026-10-05",
+  "duration": "17:07",
+  "fetched_at": "2026-10-05T22:26:23+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "4D60Cjh_yoU.ko-orig.vtt",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "레버리지·매매법",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "O3AxPtq4llQ",
+      "title": "AI에서 빠진 돈, 비트코인으로? 반도체보다 강한 이유",
+      "via": "mentions this item"
+    },
+    {
+      "type": "library",
+      "id": "ic830SJwAko",
+      "title": "스트래티지 지수 퇴출 위기, 비트코인 매수 흐름이 바뀐다",
+      "via": "mentions this item"
+    }
+  ],
+  "visibility": "public"
+}

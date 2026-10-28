@@ -1,0 +1,24 @@
+6 Grok bots. One trading account. Zero random decisions. 🤖📈
+
+I rebuilt the six-bot system behind the viral $89-to-$68,024 experiment.
+
+Each bot has one job:
+
+🔎 Scout finds opportunities
+📰 News checks what’s happening
+💬 Sentiment tracks the market mood
+📊 Charts looks for setups
+🛡️ Risk protects the account
+⚡ Decision makes the final BUY, WAIT, or SKIP call
+
+The bots work together, but strict rules control every decision.
+
+The results shown in the original experiment are self-reported and aren’t guaranteed. Start with simulations or paper trading and verify everything yourself.
+
+Comment “GROK6” and I’ll send you the six-bot prompts, workflow map, and risk rules.
+
+Follow @seb.ai for more AI systems, tools, and workflows.
+
+Not financial advice.
+
+#AITrading #GrokAI #TradingBots #AIAgents #ArtificialIntelligence

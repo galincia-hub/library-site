@@ -1,0 +1,40 @@
+{
+  "id": "-khnpLcE7iw",
+  "url": "https://www.youtube.com/watch?v=-khnpLcE7iw",
+  "title": "삼국지 마대가 촉나라에서 중용받지 못한 이유",
+  "channel": "손찬이형 - 삼국지 인물 탐구",
+  "upload_date": "2025-10-08",
+  "duration": "19:49",
+  "fetched_at": "2026-10-08T19:21:18+09:00",
+  "fetch_path": "captions",
+  "note": "whisper 미실행: box 가용 메모리 ~5GB(free -g available 5) + 숫자 중요 구간 없음(역사 해설) → YouTube 자동자막(ko) 사용. 영상 id가 '-'로 시작해 yt1.sh의 ls가 옵션으로 오인 → 첫 실행 자막 0자, /workspace/yt/yt1.sh에 'ls --' 패치 후 재수집. 폴더 슬러그 sonchani-hyung-three-kingdoms(channel_slugs.tsv 추가)",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "-khnpLcE7iw.ko-orig.vtt",
+  "topic": "etc",
+  "tags": [
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}

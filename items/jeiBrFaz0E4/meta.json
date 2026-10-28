@@ -1,0 +1,41 @@
+{
+  "id": "jeiBrFaz0E4",
+  "url": "https://www.youtube.com/watch?v=jeiBrFaz0E4",
+  "title": "[주식] 261014 호재에도 못올라가는 반도체",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-14",
+  "duration": "34:16",
+  "fetched_at": "2026-10-14T19:09:46+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "jeiBrFaz0E4.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "크루즈 연결"
+  ],
+  "routing": "pending",
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [],
+  "visibility": "public"
+}
