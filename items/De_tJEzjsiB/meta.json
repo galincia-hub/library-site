@@ -1,0 +1,105 @@
+{
+  "id": "De_tJEzjsiB",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/De_tJEzjsiB/",
+  "type": "reel",
+  "media_count": 1,
+  "title": "미친 사업 아이템, AI팀 판매가 뜨는 이유",
+  "channel": "grant._.ai",
+  "account": "grant._.ai",
+  "account_name": "Grant | AI 자동화, 마케팅",
+  "account_id": "61203115228",
+  "upload_date": "2026-10-27",
+  "posted_at": "2026-10-27T20:03:58+09:00",
+  "duration_sec": 33.8,
+  "likes": 11,
+  "comments": 17,
+  "fetched_at": "2026-10-28T19:10:00+09:00",
+  "fetch_path": "yt-dlp anonymous -J --ignore-no-formats-error (caption+meta, no cookies/login); 영상 임시 다운로드(-J에 노출된 공개 DASH 720p+오디오 URL을 curl로 받음; yt-dlp 직접 다운로드는 'empty media response')→ffmpeg 0.5초 간격 프레임→육안 판독(burn-in 자막); 영상·오디오 삭제",
+  "whisper": "실행: 가용 RAM 11GB(>6GB 조건). faster-whisper large-v3-turbo, CPU float32, ko. 화면 자막과 대조용(transcript_whisper.txt)",
+  "transcript_whisper": "transcript_whisper.txt",
+  "note": "자동/수동 자막 트랙 없음. transcript.txt는 화면 자막 판독본. 같은 계정 10/25 릴스(De6O0GKgGFg)의 후속·변주. 영상 끝 링크 유도와 캡션 하단은 작성자 자사 '모범 AI 부트캠프' 홍보(댓글 키워드 DM 퍼널). likes/comments는 수집 시점 값.",
+  "topic": "business-marketing",
+  "tags": [
+    "에이전트·자동화",
+    "사업·부업 아이디어",
+    "크루즈 연결",
+    "홍보·협찬 포함",
+    "쇼츠·릴스"
+  ],
+  "routing": {
+    "primary": 3,
+    "owner": "사업연구원",
+    "status": "추천",
+    "date": "2026-10-28",
+    "note": "3 (사업연구원) — 10/25 릴스와 같은 'AI팀 판매' 아이디어를 '교육보다 완성품' 논리로 다시 민 것. 크루즈 AI 사업화 때 판매 형식 참고. 보조 4(마케팅: 댓글 키워드 퍼널)",
+    "source": "summary.md",
+    "secondary": [
+      {
+        "number": 4,
+        "owner": "마케팅"
+      }
+    ]
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "화면 자막 판독본"
+    },
+    {
+      "file": "transcript_whisper.txt",
+      "label": "Whisper 원출력"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 정리본"
+    },
+    {
+      "file": "caption.txt",
+      "label": "캡션 원문"
+    },
+    {
+      "file": "img/01.jpg",
+      "label": "핵심 프레임"
+    }
+  ],
+  "references": [
+    {
+      "title": "The AI Automation Agency Business Model, Explained (2026)",
+      "url": "https://www.leadlock.ai/blog/ai-automation-agency-business-model/"
+    },
+    {
+      "title": "How to Price an Outcome Based AI Agent Contract Without Losing Margin",
+      "url": "https://startupfortune.com/how-to-price-an-outcome-based-ai-agent-contract-without-losing-margin/"
+    },
+    {
+      "title": "AI Automation Agency Pricing: Retainer vs Project (2026)",
+      "url": "https://frenchydigital.com/blog/ai-automation-agency-pricing-2026"
+    }
+  ],
+  "related": [
+    {
+      "type": "library",
+      "id": "De6O0GKgGFg",
+      "title": "미국에서 난리 난 AI팀 판매 사업",
+      "via": "same account, same topic (prequel)"
+    },
+    {
+      "type": "library",
+      "id": "NNRpJ7utH28",
+      "title": "(서울대 출신 코덱스 해커톤 2등) 진짜 일하는 AI 에이전트 만드는 법",
+      "via": "same operator (모범 AI) — AI팀 세팅 방법론"
+    },
+    {
+      "type": "library",
+      "id": "Deqy-Mexani",
+      "title": "클로드 구독으로 손님을 데려오는 하비",
+      "via": "same comment-keyword DM funnel pattern"
+    }
+  ],
+  "visibility": "public"
+}
