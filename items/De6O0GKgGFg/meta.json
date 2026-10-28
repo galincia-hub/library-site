@@ -1,0 +1,21 @@
+{
+  "id": "De6O0GKgGFg",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/De6O0GKgGFg/",
+  "type": "reel",
+  "media_count": 1,
+  "title": "미국에서 난리 난 AI팀 판매 사업",
+  "channel": "grant._.ai",
+  "account": "grant._.ai",
+  "account_name": "Grant | AI 자동화, 마케팅",
+  "account_id": "61203115228",
+  "upload_date": "2026-10-25",
+  "posted_at": "2026-10-25T17:02:54+09:00",
+  "duration_sec": 35.6,
+  "likes": 157,
+  "comments": 156,
+  "fetched_at": "2026-10-28T09:10:00+09:00",
+  "fetch_path": "yt-dlp anonymous -J --ignore-no-formats-error (caption+meta, no cookies/login); 영상 임시 다운로드(720p)→ffmpeg 0.5초 간격 자막 영역 프레임→육안 판독(burn-in 자막); 영상 삭제",
+  "whisper": "미실행: 가용 RAM 약 2GB(<6GB 조건). 화면 자막이 음성 전체를 덮는 것으로 보여 판독본 사용",
+  "note": "자동/수동 자막 트랙 없음. transcript.txt는 화면 자막 판독본. 캡션 하단은 작성자 자사 'AI 부트캠프' 홍보(댓글 키워드 DM 퍼널)."
+}
