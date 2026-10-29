@@ -1,0 +1,78 @@
+{
+  "id": "MpZ7yxjzD8w",
+  "url": "https://www.youtube.com/watch?v=MpZ7yxjzD8w",
+  "title": "그래픽카드 4GB로 AI 영상까지? 무료 ComfyUI (이렇게 켜두면 해킹당해요)",
+  "channel": "바퍼",
+  "channel_handle": "@funnelthing",
+  "upload_date": "2026-10-30",
+  "duration": "56",
+  "fetched_at": "2026-10-30T00:50:00+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko",
+  "caption_file": "MpZ7yxjzD8w.ko.vtt",
+  "metadata_source": "youtube oembed (yt-dlp -J bot check); upload_date=수집일(원 업로드일 미확인)",
+  "topic": "ai-tools",
+  "tags": [
+    "ComfyUI",
+    "이미지·영상 생성",
+    "로컬 AI",
+    "보안",
+    "홍보·협찬 포함",
+    "쇼츠·릴스"
+  ],
+  "routing": {
+    "primary": 2,
+    "owner": "AI연구원",
+    "status": "추천",
+    "date": "2026-10-30",
+    "note": "2 (AI연구원) — 로컬 영상·이미지 생성 도구 후보. 외부 노출(--listen 0.0.0.0) 금지·출처 불명 커스텀 노드 금지 보안 메모 포함",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "GitHub Comfy-Org/ComfyUI (별 143,937, 2026-10-30 조회)",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "title": "TechCrunch: ComfyUI hits $500M valuation (2026-04-24)",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
+    },
+    {
+      "title": "Comfy 공식 블로그: ComfyUI raises $30M",
+      "url": "https://blog.comfy.org/p/comfyui-raises-30m-to-scale-open"
+    },
+    {
+      "title": "Censys: ComfyUI servers cryptomining proxy botnet",
+      "url": "https://censys.com/blog/comfyui-servers-cryptomining-proxy-botnet/"
+    },
+    {
+      "title": "The Hacker News: Over 1,000 Exposed ComfyUI Instances Targeted (2026-04-07)",
+      "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
+    },
+    {
+      "title": "GHSA-95pq-hr8p-f5g7 ComfyUI-Manager 취약점 (패치 3.38 / ComfyUI 0.3.76)",
+      "url": "https://github.com/Comfy-Org/ComfyUI-Manager/security/advisories/GHSA-95pq-hr8p-f5g7"
+    }
+  ],
+  "related": [],
+  "visibility": "public"
+}
