@@ -1,0 +1,112 @@
+{
+  "id": "30gWmHHowvM",
+  "url": "https://www.youtube.com/watch?v=30gWmHHowvM",
+  "title": "[속보] 최종 저점 시그널!! 거래소 해킹 재료 뜸!!",
+  "channel": "스트래티지_금전",
+  "channel_handle": "@mstr_bitcoin_1",
+  "upload_date": "2026-10-30",
+  "duration": "700",
+  "fetched_at": "2026-10-30T17:30:00+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko",
+  "caption_file": null,
+  "transcript_source": "https://yoututranscript.com/transcript/30gWmHHowvM (YouTube 자동자막, 0:00–11:35 / 11:40)",
+  "metadata_source": "youtube watch page publishDate 2026-10-29T19:40:18-07:00 (=10/30 11:40 KST), lengthSeconds 700",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "MSTR·트레저리",
+    "바이낸스 해킹",
+    "거래소 보안"
+  ],
+  "routing": {
+    "primary": 1,
+    "owner": "투자연구원",
+    "status": "추천",
+    "date": "2026-10-30",
+    "note": "1 (투자연구원) — 바이낸스 $6.3B 해킹 + MSTR 3Q26 실적 브리핑. 저점론은 화자 의견. 세일러 발언 시점·소프트웨어 −33% 오류 정정",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "Strategy 3Q26 실적 보도자료 (2026-10-29)",
+      "url": "https://www.strategy.com/press/strategy-announces-third-quarter-2026-financial-results_10-29-2026"
+    },
+    {
+      "title": "Binance Security Incident Update (~$6.3B, ~$3B 동결)",
+      "url": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7"
+    },
+    {
+      "title": "The Block: outflows up to $5.8B",
+      "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171"
+    },
+    {
+      "title": "BleepingComputer: Binance probes potential $5.8B hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+    },
+    {
+      "title": "CNBC: Biggest-ever crypto hack $6.3B",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+    },
+    {
+      "title": "BBC: Binance hack largest in history",
+      "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o"
+    },
+    {
+      "title": "TokenPost: Saylor 영어 비유 (2026-10-28)",
+      "url": "https://www.tokenpost.com/news/insights/42652"
+    },
+    {
+      "title": "MSTR Q3 2026 실적 콜 트랜스크립트",
+      "url": "https://stockanalysis.com/stocks/mstr/transcripts/662581-q3-2026/"
+    },
+    {
+      "title": "BTC 2026-10-29 종가 $77,780",
+      "url": "https://exa.ai/library/markets/crypto/BTC?date=2026-10-29&view=daily"
+    },
+    {
+      "title": "MSTR 2026-10-29 종가 $141.62",
+      "url": "https://exa.ai/library/markets/stock/MSTR?date=2026-10-29&view=daily"
+    }
+  ],
+  "related": [
+    {
+      "type": "library",
+      "id": "qHsGOnr5bRw",
+      "title": "MSTR 주가 여기까지 상승한다! 신규 mNAV 기반, 주가 시뮬레이션",
+      "via": "same topic (MSTR)"
+    },
+    {
+      "type": "library",
+      "id": "Ph59sNwlEtY",
+      "title": "MSTR 3배 레버리지, 수익률417배, MDD 매매전략, 청산리스크 0.2%",
+      "via": "same topic (MSTR)"
+    },
+    {
+      "type": "library",
+      "id": "ic830SJwAko",
+      "title": "스트래티지 지수 퇴출 위기, 비트코인 매수 흐름이 바뀐다",
+      "via": "same topic (Strategy/BTC)"
+    }
+  ],
+  "visibility": "public"
+}
