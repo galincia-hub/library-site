@@ -1,0 +1,247 @@
+{
+  "id": "aMXcyodxSHg",
+  "url": "https://www.youtube.com/watch?v=aMXcyodxSHg",
+  "title": "[주식] 261030 터널의 끝은 어디인가",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-30",
+  "duration": "45:02",
+  "fetched_at": "2026-10-30T19:13:15+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "aMXcyodxSHg.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "빅테크실적",
+    "알파벳",
+    "아마존",
+    "인텔",
+    "바이낸스해킹",
+    "로테이션",
+    "LG화학",
+    "체코원전",
+    "삼성전자",
+    "SK하이닉스",
+    "보안테마",
+    "예측장부"
+  ],
+  "routing": {
+    "primary": 1,
+    "owner": "투자연구원",
+    "status": "추천",
+    "date": "2026-10-30",
+    "note": "추천 1 (투자연구원) — 이사님 번호 회신 대기. 10/28 V반등 발판 콜 실패 기록, 로테이션 부재 주장 검증, 바이낸스 해킹의 BTC 영향",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "연합뉴스 마감",
+      "url": "https://www.yna.co.kr/view/AKR20261030131551008"
+    },
+    {
+      "title": "AP",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-2c26b0b1bbc3bfab9f3f4b902172f458"
+    },
+    {
+      "title": "파이낸셜뉴스 영문",
+      "url": "https://en.fnnews.com/news/202610300610245198"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+    },
+    {
+      "title": "AP",
+      "url": "https://apnews.com/article/google-earnings-q3-revenue-profit-ai-alphabet-1acf6aff00d4dc084c5243d613307388"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+    },
+    {
+      "title": "아마존 IR",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx"
+    },
+    {
+      "title": "서울경제 영문",
+      "url": "https://en.sedaily.com/international/2026/10/30/amazon-issues-more-debt-than-france-as-global-bond-sales"
+    },
+    {
+      "title": "인텔 IR",
+      "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "title": "Reuters/StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Intel+signals+slower+growth+as+PC+market+remains+under+pressure/27257618.html"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+    },
+    {
+      "title": "바이낸스 공지",
+      "url": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7"
+    },
+    {
+      "title": "Elliptic",
+      "url": "https://www.elliptic.co/insights/binance-largest-hack-in-history/"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+    },
+    {
+      "title": "Euronews",
+      "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis"
+    },
+    {
+      "title": "가트너 보도자료",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/gartner-analyst-warns-about-ai-neccloud-build-out.html"
+    },
+    {
+      "title": "kwt 블로그(다나와 집계)",
+      "url": "https://blog.kwt.co.kr/ddr5-ram-price-hbm-apple-2026-outlook/"
+    },
+    {
+      "title": "SW Architect",
+      "url": "https://www.swarchitect.net/ram-gpu-prices-2026-10/"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260731069351008"
+    },
+    {
+      "title": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202608031707322908"
+    },
+    {
+      "title": "세계일보",
+      "url": "https://www.segye.com/newsView/20260927508045"
+    },
+    {
+      "title": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-kioxia-sheds-two-thirds-of-peak-market-value-as-china-chip-rivals-emerge"
+    },
+    {
+      "title": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-bets-on-blockbuster-drug-trio-to-generate-11bn-in-peak-sales"
+    },
+    {
+      "title": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261028159851017"
+    },
+    {
+      "title": "한겨레",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1283751.html"
+    },
+    {
+      "title": "디지털타임스",
+      "url": "https://www.dt.co.kr/article/12091883"
+    },
+    {
+      "title": "매일경제",
+      "url": "https://www.mk.co.kr/news/stock/12188764"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261029042600003"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261029047353003?section=industry%2Fall"
+    },
+    {
+      "title": "연합뉴스 특징주",
+      "url": "https://www.yna.co.kr/view/AKR20261029057451008"
+    },
+    {
+      "title": "인베스트조선",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980049.html"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261028033600003"
+    },
+    {
+      "title": "디지털타임스",
+      "url": "https://www.dt.co.kr/article/12091709"
+    },
+    {
+      "title": "아시아경제",
+      "url": "https://www.asiae.co.kr/article/2026102910481742528"
+    },
+    {
+      "title": "아주경제",
+      "url": "https://www.ajunews.com/view/20261029095936613"
+    },
+    {
+      "title": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261030001220"
+    },
+    {
+      "title": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2020487"
+    },
+    {
+      "title": "한미약품 보도자료",
+      "url": "https://hanmi.co.kr/about/news-media/press/detail-5182.hm"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261030030100017"
+    },
+    {
+      "title": "서울경제",
+      "url": "https://www.sedaily.com/article/20107909"
+    }
+  ],
+  "related": [
+    {
+      "type": "library",
+      "id": "wsumTY7eBwM",
+      "title": "[주식] 261028 700pt대 코스닥은 역대급 기회가 될 겁니다",
+      "via": "previous broadcast (calls checked)"
+    },
+    {
+      "type": "library",
+      "id": "beWH4_AvKkw",
+      "title": "[주식] 아틀라스 부품주 급등… 아직 발표 안 된 '이 부품'은?",
+      "via": "same-week short"
+    },
+    {
+      "type": "library",
+      "id": "8kcLAjKnmNs",
+      "title": "[주식] 이재용이 주목한 '로봇 손'… 장중 +23% 뛴 이 종목",
+      "via": "same-week short"
+    }
+  ],
+  "visibility": "public"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "beWH4_AvKkw",
+  "url": "https://www.youtube.com/watch?v=beWH4_AvKkw",
+  "title": "[주식] 아틀라스 부품주 급등… 아직 발표 안 된 ‘이 부품’은?",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-29",
+  "duration": "1:01",
+  "fetched_at": "2026-10-30T19:13:23+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "beWH4_AvKkw.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "쇼츠·릴스",
+    "아틀라스",
+    "감속기",
+    "로봇"
+  ],
+  "routing": {
+    "primary": 0,
+    "owner": "보관",
+    "status": "추천",
+    "date": "2026-10-30",
+    "note": "추천 0 (보관만) — 10/28 본방송 재사용, 새 정보 없음",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "wsumTY7eBwM",
+      "title": "[주식] 261028 700pt대 코스닥은 역대급 기회가 될 겁니다",
+      "via": "source broadcast of this short"
+    }
+  ],
+  "visibility": "public"
+}

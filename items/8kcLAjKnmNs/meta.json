@@ -1,0 +1,58 @@
+{
+  "id": "8kcLAjKnmNs",
+  "url": "https://www.youtube.com/watch?v=8kcLAjKnmNs",
+  "title": "[주식] 이재용이 주목한 ‘로봇 손’… 장중 +23% 뛴 이 종목",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-30",
+  "duration": "44",
+  "fetched_at": "2026-10-30T19:13:19+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "8kcLAjKnmNs.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "쇼츠·릴스",
+    "로봇손",
+    "원익홀딩스",
+    "이재용"
+  ],
+  "routing": {
+    "primary": 0,
+    "owner": "보관",
+    "status": "추천",
+    "date": "2026-10-30",
+    "note": "추천 0 (보관만) — 10/28 본방송 재사용, 새 정보 없음",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "wsumTY7eBwM",
+      "title": "[주식] 261028 700pt대 코스닥은 역대급 기회가 될 겁니다",
+      "via": "source broadcast of this short"
+    }
+  ],
+  "visibility": "public"
+}
