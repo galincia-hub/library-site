@@ -1,0 +1,64 @@
+{
+  "id": "QRB_6aIeqCY",
+  "url": "https://www.youtube.com/watch?v=QRB_6aIeqCY",
+  "title": "[주식]  역대급 실적에도 하락… 시장이 기다린 건 따로 있었다",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-31",
+  "duration": "1:20",
+  "fetched_at": "2026-10-31T19:09:20+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "QRB_6aIeqCY.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "쇼츠·릴스",
+    "삼성전자",
+    "SK하이닉스",
+    "주주환원"
+  ],
+  "routing": {
+    "primary": 0,
+    "owner": "보관",
+    "status": "추천",
+    "date": "2026-10-31",
+    "note": "추천 0 (보관만) — 10/30 본방송 재사용, 새 정보 없음",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "aMXcyodxSHg",
+      "title": "[주식] 261030 터널의 끝은 어디인가",
+      "via": "source broadcast of this short"
+    },
+    {
+      "type": "library",
+      "id": "wsumTY7eBwM",
+      "title": "[주식] 261028 700pt대 코스닥은 역대급 기회가 될 겁니다",
+      "via": "SK하이닉스 컨콜 다룬 방송"
+    }
+  ],
+  "visibility": "public"
+}
