@@ -1,0 +1,261 @@
+{
+  "id": "9I-pXnEGBhE",
+  "url": "https://www.youtube.com/watch?v=9I-pXnEGBhE",
+  "title": "[주식] 261102 AI 내러티브가 끝나간다",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-11-02",
+  "duration": "35:42",
+  "fetched_at": "2026-11-02T19:14:50+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "9I-pXnEGBhE.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "AI내러티브",
+    "키옥시아",
+    "앤트로픽",
+    "오픈AI",
+    "골드만삭스",
+    "미국중간선거",
+    "바이낸스해킹",
+    "한화오션",
+    "조선",
+    "저PBR",
+    "포스코퓨처엠",
+    "체코원전",
+    "로테이션",
+    "예측장부"
+  ],
+  "routing": {
+    "primary": 1,
+    "owner": "투자연구원",
+    "status": "추천",
+    "date": "2026-11-02",
+    "note": "추천 1 (투자연구원) — 이사님 번호 회신 대기. 'AI 내러티브 끝'이 낸드만인지 메모리 전체인지, 앤트로픽 IPO·오픈AI 조달 영향, 우주 데이터센터 콜 재등장·현대건설 자기 적중 주장 장부 대조",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "Nasdaq SOX 기록",
+      "url": "https://indexes.nasdaq.com/Index/History/SOX"
+    },
+    {
+      "title": "WSJ SOX",
+      "url": "https://www.wsj.com/market-data/quotes/index/SOX/historical-prices"
+    },
+    {
+      "title": "AP",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2"
+    },
+    {
+      "title": "파이낸셜뉴스 마감",
+      "url": "https://www.fnnews.com/news/202611021536225140"
+    },
+    {
+      "title": "Arab News/Reuters",
+      "url": "https://www.arabnews.jp/en/business/japans-nikkei-ends-lower-as-kioxia-tanks-tokyo-electron-rises-on-strong-outlook-3001223"
+    },
+    {
+      "title": "Business Insider",
+      "url": "https://www.businessinsider.com/another-chip-stock-selloff-shows-how-the-ai-trade-is-getting-pickier-2026-11"
+    },
+    {
+      "title": "키옥시아 실적자료(SGX)",
+      "url": "https://links.sgx.com/FileOpen/Earnings-Release-FY2026-2Q-EN.ashx?App=Announcement&FileID=909911"
+    },
+    {
+      "title": "Voltgrid",
+      "url": "https://voltgridnews.com/story/kioxia-revenue-hits-2-48-trillion-on-ai-demand-guides-flat"
+    },
+    {
+      "title": "CNBC TV18/Bloomberg",
+      "url": "https://www.cnbctv18.com/market/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off-20024463.htm"
+    },
+    {
+      "title": "Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/01/companies/kioxia-chip-prices-stall/"
+    },
+    {
+      "title": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "title": "EconoTimes",
+      "url": "https://econotimes.com/FT-Blackstone-Says-Anthropic-Could-Get-Below-Investment-Grade-Rating-After-IPO-1767272"
+    },
+    {
+      "title": "Investing.com/WSJ",
+      "url": "https://www.investing.com/news/company-news/openai-raises-just-11bn-of-30bn-target-as-ai-investor-appetite-cools--wsj-4989165"
+    },
+    {
+      "title": "Investing.com/Reuters",
+      "url": "https://www.investing.com/news/economy-news/openai-cuts-funding-target-by-10-billion-ft-reports-4988969"
+    },
+    {
+      "title": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-drops-stark-forecast-192059635.html"
+    },
+    {
+      "title": "골드만 리서치 PDF",
+      "url": "https://www.gspublishing.com/content/research/en/reports/2026/09/24/17991761-4354-496a-bf3a-26b281c829fc.pdf"
+    },
+    {
+      "title": "Ynet",
+      "url": "https://www.ynetnews.com/article/rk11aacepzx"
+    },
+    {
+      "title": "JBizNews",
+      "url": "https://jbiznews.com/more-than-52-7-million-americans-have-already-voted-in-tuesdays-midterms/"
+    },
+    {
+      "title": "Polymarket",
+      "url": "https://polymarket.com/midterms"
+    },
+    {
+      "title": "WION",
+      "url": "https://www.wionews.com/world/us-midterms-2026-prediction-markets-democrats-senate-house-1793558951403"
+    },
+    {
+      "title": "BNY 자료",
+      "url": "https://www.bny.com/assets/investments/im/im-na/articles/pdf/how-do-midterm-elections-impact-markets-over-time.pdf"
+    },
+    {
+      "title": "Forbes",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/01/trump-says-he-may-become-mr-veto-if-democrats-win-control-of-congress/"
+    },
+    {
+      "title": "이데일리",
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05110246645618168"
+    },
+    {
+      "title": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202610301736108261"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/iranian-negotiators-in-qatar-to-continue-talks-to-end-war-reuters.html"
+    },
+    {
+      "title": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/11/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official"
+    },
+    {
+      "title": "AP",
+      "url": "https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315"
+    },
+    {
+      "title": "Investing.com/Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/explainergone-in-20-minutes-how-the-biggest-heist-in-crypto-history-unfolded-4986851"
+    },
+    {
+      "title": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261102003500072"
+    },
+    {
+      "title": "The Business Standard",
+      "url": "https://www.tbsnews.net/worldbiz/middle-east/trump-says-us-has-one-or-two-remaining-targets-iran-including-pickaxe-mountain"
+    },
+    {
+      "title": "TechNode",
+      "url": "https://technode.com/2026/11/02/apple-confirms-qwen-integration-for-china-ai-rollout-with-beta-testing-starting-november-4/"
+    },
+    {
+      "title": "The Verge",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+    },
+    {
+      "title": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/nuclear-reactors-under-construction-rise-to-79-globally-on-ai-demand"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261030144300003"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261102057100527"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261101015300003?section=economy%2Fall"
+    },
+    {
+      "title": "더팩트",
+      "url": "https://news.tf.co.kr/read/economy/2383340.htm"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261031004600071"
+    },
+    {
+      "title": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611021648335397"
+    },
+    {
+      "title": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261031025200008"
+    },
+    {
+      "title": "KIND 저PBR기업",
+      "url": "https://kind.krx.co.kr/valueup/lowpbr.do?method=valueupLowpbrMain"
+    },
+    {
+      "title": "연합인포맥스",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442096"
+    },
+    {
+      "title": "딜사이트",
+      "url": "https://dealsite.co.kr/articles/171766"
+    },
+    {
+      "title": "글로벌이코노믹(10/30)",
+      "url": "https://www.g-enews.com/article/Real-Estate/2026/10/2026103010241099022aa6f4cdad_1"
+    }
+  ],
+  "related": [
+    {
+      "type": "library",
+      "id": "aMXcyodxSHg",
+      "title": "[주식] 261030 터널의 끝은 어디인가",
+      "via": "previous broadcast (calls checked)"
+    },
+    {
+      "type": "library",
+      "id": "OmHyzQLNENM",
+      "title": "[주식] 원전주 같이 빠졌는데… 핵심 계약은 살아있는 ‘이 종목’",
+      "via": "same-week short (체코 원전)"
+    },
+    {
+      "type": "library",
+      "id": "Tsh1nRBiIZA",
+      "title": "[주식] 대주주가 2.5조원어치 판다… 어느 배터리 종목일까?",
+      "via": "same-week short (LG엔솔)"
+    }
+  ],
+  "visibility": "public"
+}

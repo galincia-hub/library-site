@@ -1,0 +1,64 @@
+{
+  "id": "OmHyzQLNENM",
+  "url": "https://www.youtube.com/watch?v=OmHyzQLNENM",
+  "title": "[주식] 원전주 같이 빠졌는데… 핵심 계약은 살아있는 ‘이 종목’",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-10-31",
+  "duration": "1:10",
+  "fetched_at": "2026-11-02T19:14:44+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "OmHyzQLNENM.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "쇼츠·릴스",
+    "체코원전",
+    "두산에너빌리티",
+    "대우건설"
+  ],
+  "routing": {
+    "primary": 0,
+    "owner": "보관",
+    "status": "추천",
+    "date": "2026-11-02",
+    "note": "추천 0 (보관만) — 10/30 본방송 재사용(29:58–31:32), 새 정보 없음",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "aMXcyodxSHg",
+      "title": "[주식] 261030 터널의 끝은 어디인가",
+      "via": "source broadcast of this short"
+    },
+    {
+      "type": "library",
+      "id": "9I-pXnEGBhE",
+      "title": "[주식] 261102 AI 내러티브가 끝나간다",
+      "via": "next broadcast (follow-up)"
+    }
+  ],
+  "visibility": "public"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "Tsh1nRBiIZA",
+  "url": "https://www.youtube.com/watch?v=Tsh1nRBiIZA",
+  "title": "[주식] 대주주가 2.5조원어치 판다… 어느 배터리 종목일까?",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-11-01",
+  "duration": "53",
+  "fetched_at": "2026-11-02T19:14:48+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "Tsh1nRBiIZA.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "쇼츠·릴스",
+    "LG화학",
+    "LG에너지솔루션",
+    "주주환원"
+  ],
+  "routing": {
+    "primary": 0,
+    "owner": "보관",
+    "status": "추천",
+    "date": "2026-11-02",
+    "note": "추천 0 (보관만) — 10/30 본방송 재사용(27:30–28:50), 새 정보 없음",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "aMXcyodxSHg",
+      "title": "[주식] 261030 터널의 끝은 어디인가",
+      "via": "source broadcast of this short"
+    },
+    {
+      "type": "library",
+      "id": "9I-pXnEGBhE",
+      "title": "[주식] 261102 AI 내러티브가 끝나간다",
+      "via": "next broadcast (follow-up)"
+    }
+  ],
+  "visibility": "public"
+}
