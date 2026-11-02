@@ -1,0 +1,66 @@
+{
+  "id": "gHhb5Lxkt2Q",
+  "platform": "youtube",
+  "url": "https://www.youtube.com/watch?v=gHhb5Lxkt2Q",
+  "title": "외주비 300만 원 아끼는 법. GPT 아스트라 디자인 100% 자동화 | 랜딩페이지·카드뉴스·PPT·영상편집",
+  "channel": "홍아린 AI",
+  "upload_date": "2026-10-22",
+  "duration": "18:18",
+  "duration_sec": 1098,
+  "fetched_at": "2026-11-03T08:39:04+09:00",
+  "fetch_path": "yoututranscript",
+  "fetch_note": "yt-dlp 익명 자막 요청 HTTP 429(ko-orig) → yoututranscript.com 세그먼트 462개, 마지막 1090.4s(영상 1098s) 전 구간 확인. 메타데이터는 yt-dlp",
+  "caption_track": "auto",
+  "caption_lang": "ko",
+  "topic": "ai-tools",
+  "tags": [
+    "ChatGPT·Codex",
+    "에이전트·자동화",
+    "이미지·영상 생성",
+    "크루즈 연결",
+    "홍보·협찬 포함",
+    "추가 산출물"
+  ],
+  "research_level": 2,
+  "routing": {
+    "primary": 4,
+    "owner": "마케팅연구원_진경",
+    "status": "추천",
+    "date": "2026-11-03",
+    "note": "랜딩·쿠폰 이벤트·카드뉴스·모션 PPT·릴스 제작 자동화 → 크루즈 직판·전세선 마케팅 파일럿 후보. 대안 2 AI연구원",
+    "source": "summary.md"
+  },
+  "promo_flag": "16:00~17:26 판매용 'AI 직원 세팅' 키트(Claude 기반) 판매, 17:52 채널 친구추가 → 카페 링크 퍼널",
+  "raw_files": [
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문 (자동자막)"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "교정 자막"
+    },
+    {
+      "file": "prompts.md",
+      "label": "실제 사용 프롬프트"
+    }
+  ],
+  "references": [
+    "https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex",
+    "https://chatgpt.com/pricing/",
+    "https://learn.chatgpt.com/docs/models",
+    "https://learn.chatgpt.com/docs/computer-use",
+    "https://learn.chatgpt.com/docs/permission-modes",
+    "https://developers.figma.com/docs/figma-mcp-server/",
+    "https://help.figma.com/hc/en-us/articles/39216419318551",
+    "https://www.figma.com/pricing/",
+    "https://www.capcut.com/ko-kr/help/join-capcut-pro"
+  ],
+  "related": [],
+  "visibility": "public",
+  "source_bot": "라이브러리관리자"
+}
