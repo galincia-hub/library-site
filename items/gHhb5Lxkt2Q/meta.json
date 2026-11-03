@@ -62,5 +62,11 @@
   ],
   "related": [],
   "visibility": "public",
-  "source_bot": "라이브러리관리자"
+  "source_bot": "라이브러리관리자",
+  "extra_pages": [
+    {
+      "file": "manual.html",
+      "label": "HTML 매뉴얼 보기"
+    }
+  ]
 }
