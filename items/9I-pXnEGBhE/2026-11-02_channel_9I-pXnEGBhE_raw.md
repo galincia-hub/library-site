@@ -262,6 +262,12 @@
       "id": "Tsh1nRBiIZA",
       "title": "[주식] 대주주가 2.5조원어치 판다… 어느 배터리 종목일까?",
       "via": "same-week short (LG엔솔)"
+    },
+    {
+      "type": "library",
+      "id": "LjYKvm8Pfpw",
+      "title": "[주식] 삼성전자·하이닉스 주주라면… 키옥시아 급락을 봐야 하는 이유",
+      "via": "short clipped from this broadcast (20:20–24:03)"
     }
   ],
   "visibility": "public"

@@ -1,0 +1,58 @@
+{
+  "id": "LjYKvm8Pfpw",
+  "url": "https://www.youtube.com/watch?v=LjYKvm8Pfpw",
+  "title": "[주식] 삼성전자·하이닉스 주주라면… 키옥시아 급락을 봐야 하는 이유",
+  "channel": "한균수의 주식사용설명서",
+  "upload_date": "2026-11-02",
+  "duration": "1:34",
+  "fetched_at": "2026-11-03T19:14:18+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko-orig",
+  "caption_file": "LjYKvm8Pfpw.ko-orig.vtt",
+  "topic": "investing-kr-stocks",
+  "tags": [
+    "한균수",
+    "국내증시",
+    "쇼츠·릴스",
+    "키옥시아",
+    "낸드",
+    "반도체"
+  ],
+  "routing": {
+    "primary": 0,
+    "owner": "보관",
+    "status": "추천",
+    "date": "2026-11-03",
+    "note": "추천 0 (보관만) — 11/2 본방송 재사용(20:20–24:03), 새 정보 없음",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_clean.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [],
+  "related": [
+    {
+      "type": "library",
+      "id": "9I-pXnEGBhE",
+      "title": "[주식] 261102 AI 내러티브가 끝나간다",
+      "via": "source broadcast of this short"
+    }
+  ],
+  "visibility": "public"
+}
