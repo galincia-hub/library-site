@@ -1,0 +1,142 @@
+{
+  "id": "vkUrAIRy3Tw",
+  "url": "https://www.youtube.com/watch?v=vkUrAIRy3Tw",
+  "title": "비트코인 차트분석 / 26.11. 3. 라이브 방송",
+  "channel": "다빈치 트레이딩 : Davincii Trading",
+  "channel_handle": "@DavinciiTrading",
+  "upload_date": "2026-11-04",
+  "duration": "41:45",
+  "fetched_at": "2026-11-04T20:23:00+09:00",
+  "fetch_path": "captions",
+  "caption_track": "auto",
+  "caption_lang": "ko",
+  "caption_file": null,
+  "transcript_source": "https://yoututranscript.com/transcript/vkUrAIRy3Tw (YouTube 자동자막, 2:54–41:40 / 41:45, 커버리지 99.8%)",
+  "metadata_source": "youtube watch page publishDate 2026-11-03T15:55:11-08:00 (=11/04 08:55 KST), lengthSeconds 2505, isLiveContent true; yt-dlp 익명 시도는 HTTP 429/봇 확인으로 실패",
+  "topic": "investing-crypto",
+  "tags": [
+    "비트코인·크립토",
+    "레버리지·매매법",
+    "다빈치트레이딩",
+    "차트분석",
+    "엘리엇파동",
+    "프랙탈",
+    "중간선거",
+    "바이낸스해킹",
+    "CLARITY법",
+    "지캐시",
+    "하이퍼리퀴드",
+    "라이브"
+  ],
+  "routing": {
+    "primary": 1,
+    "owner": "투자연구원",
+    "status": "추천",
+    "date": "2026-11-04",
+    "note": "추천 1 (투자연구원) — BTC 하락장 막바지론·관망 방송. 화자 레벨(90K 일부 매도 / 70K 초~60K 후 분할매수 / 40K 시나리오) 장부 기록 후 사후 검증. '풀대출 현물매수' 발언 주의",
+    "source": "summary.md"
+  },
+  "raw_files": [
+    {
+      "file": "meta.json",
+      "label": "출처 정보"
+    },
+    {
+      "file": "transcript_corrected.txt",
+      "label": "자막 교정본"
+    },
+    {
+      "file": "transcript_ts_corrected.txt",
+      "label": "타임스탬프 자막 교정본"
+    },
+    {
+      "file": "transcript_ts.txt",
+      "label": "타임스탬프 자막"
+    },
+    {
+      "file": "transcript.txt",
+      "label": "자막 원문"
+    }
+  ],
+  "references": [
+    {
+      "title": "Yahoo Finance BTC-USD 기록",
+      "url": "https://finance.yahoo.com/quote/BTC-USD/history/"
+    },
+    {
+      "title": "FBI 바이낸스 경보",
+      "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack"
+    },
+    {
+      "title": "NBC/Reuters",
+      "url": "https://www.nbcnews.com/business/business-news/fbi-says-north-korea-was-6-billion-binance-crypto-hack-rcna606758"
+    },
+    {
+      "title": "The National",
+      "url": "https://www.thenationalnews.com/business/markets/2026/10/30/bitcoin-slides-below-77000-as-binance-hack-rattles-crypto-markets/"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html"
+    },
+    {
+      "title": "Strategy 매도 기록",
+      "url": "https://bitcointreasurysoftware.com/strategy/bitcoin-sales/"
+    },
+    {
+      "title": "The Block",
+      "url": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237"
+    },
+    {
+      "title": "SEC 8-K (Strategy 3Q26)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/mstr-20261029x8kxex9912.htm"
+    },
+    {
+      "title": "Congress.gov H.R.3633",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3633/text"
+    },
+    {
+      "title": "DeFi Rate CLARITY",
+      "url": "https://defirate.com/clarity-act-fact-sheet/"
+    },
+    {
+      "title": "Coindoo",
+      "url": "https://coindoo.com/midterm-results-shrink-clarity-acts-path-to-60-votes/"
+    },
+    {
+      "title": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/securities-law/democrats-aim-for-major-changes-to-clarity-act-with-election-win"
+    },
+    {
+      "title": "TokenPost ZEC",
+      "url": "https://www.tokenpost.com/news/investing/48387"
+    },
+    {
+      "title": "CoinDesk HYPE/ICE",
+      "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s"
+    },
+    {
+      "title": "Decrypt",
+      "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us"
+    }
+  ],
+  "related": [
+    {
+      "type": "library",
+      "id": "30gWmHHowvM",
+      "title": "[속보] 최종 저점 시그널!! 거래소 해킹 재료 뜸!!",
+      "via": "same-week crypto (바이낸스 해킹)"
+    }
+  ],
+  "visibility": "public",
+  "source_bot": "라이브러리관리자",
+  "stats": {
+    "transcript_lines": 922,
+    "transcript_chars": 16271,
+    "corrected_chars": 16452,
+    "coverage_pct": 99.8,
+    "corrections": 96,
+    "correction_types": 83,
+    "unverified_flags": 6
+  }
+}
